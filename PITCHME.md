@@ -126,7 +126,8 @@ P.S: Be wise with what you share in your social media account
 +++
 
 ### PERFECT USE OF SOCIAL MEDIA!
-![Status tentang achievement](https://github.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/blob/01-softlaunch-coderdojoid/rosid.png)
+![Status tentang achievement](https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/01-softlaunch-coderdojoid/rosid.png)
+
 Check that out:
 * Github, opensource, star, f**k!
 * Memotivasi kerja
