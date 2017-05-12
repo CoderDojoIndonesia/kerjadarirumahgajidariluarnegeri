@@ -126,7 +126,12 @@ P.S: Be wise with what you share in your social media account
 +++
 
 ### PERFECT USE OF SOCIAL MEDIA!
-![Tampilkan hasil karya](https://ichart.finance.yahoo.com/5y?usdidr=x)
+![Status tentang achievement](https://github.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/blob/01-softlaunch-coderdojoid/rosid.png)
+Check that out:
+* Github, opensource, star, f**k!
+* Memotivasi kerja
+* No hate speech: politics
+* Hats off!!!
 
 +++
 ### OKAY, I ALREADY HAVE A GOOD BRAND. NOW WHAT?
