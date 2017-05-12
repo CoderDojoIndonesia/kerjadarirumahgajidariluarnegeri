@@ -1,5 +1,5 @@
-![CoderDojo](https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/01-softlaunch-coderdojoid/coderdojo.png)
-
+<img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/01-softlaunch-coderdojoid/coderdojo.png" alt="CoderDojo" width="20%" height="20%"
+jj
 ### KERJA DARI RUMAH GAJI DARI LUAR NEGERI
 
 It's easy guys!
