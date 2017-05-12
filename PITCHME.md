@@ -1,11 +1,14 @@
-<img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/01-softlaunch-coderdojoid/coderdojo.png" alt="CoderDojo" width="20%" height="20%"
-jj
+<img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/01-softlaunch-coderdojoid/coderdojo.png" alt="CoderDojo" width="20%" height="20%"/>
+
 ### KERJA DARI RUMAH GAJI DARI LUAR NEGERI
 
 It's easy guys!
 <br/>
 <span style="color:gray">Proudly presented by Eko S. Wibowo</span>
+<br/>
 Jogjakarta, May 13, 2017
+<br/>
+http://coderdojo.id
 
 ---
 
