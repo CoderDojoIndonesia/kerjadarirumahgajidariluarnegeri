@@ -71,8 +71,7 @@ You can become .. SuperDad!
 ### LET'S NOT REPEAT RACHEL MISTAKES!
 Friends Season 3 Episode 10: The One Where Rachel Quits
 ![The One Where Rachel Quits](https://www.youtube.com/embed/0IwYV9xz0Bw)
-
-Hear, hear, hear y'all!<iframe width="640" height="360" src=" frameborder="0" allowfullscreen></iframe
+Hear, hear, hear y'all!
 
 
 ---
