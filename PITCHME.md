@@ -26,14 +26,13 @@ It's easy guys!
 
 +++
 ### LET ME FIRST SEE WHERE Y'ALL COME FROM
+Strateginya akan berbeda: persiapan, eksekusi dan evaluasi
 - Pelajar |
 - Mahasiswa |
 - Pekerja kantor |
 - Pekerja serabutan |
 - Freelancer online |
 - Remote Worker |
-
-Strateginya akan berbeda: persiapan, eksekusi dan evaluasi
 
 +++
 ### WHAT ARE THE BENEFITS?
@@ -44,8 +43,6 @@ Strateginya akan berbeda: persiapan, eksekusi dan evaluasi
 - You can fire your boss(es) |
 - If there are lots of time zone gaps, you’ll be blessed with so much freedom (Tidur siang anyone?) |
 - You can pursue life. Not just office work (Capoeira anyone?) |
-
-(*) IDR 20 mil
 
 +++
 ### WHAT ARE THE DISADVANTAGES?
@@ -58,14 +55,13 @@ Strateginya akan berbeda: persiapan, eksekusi dan evaluasi
 
 +++
 ### PLUS VALUES IF YOU ARE A DAD
-
+You can become .. SuperDad!
 - Jika Anda muslim, mudahnya mendidik anak lanang sholat jama’ah ke masjid|
 - Sholat Jum’at? Tiap jum’at bisa eksplore masjid-masjid baru |
 - Bisa bareng menekuni beladiri rutin, 2-3x seminggu |
 - Bisa day-to-day amati, arahkan dan perbaiki perkembangan anak |
 - Overall? Dari sudut pandang pribadi: kebahagiaan yang hakiki :) |
 
-You can become .. SuperDad!
 
 +++
 ### LET'S NOT REPEAT RACHEL MISTAKES!
@@ -125,12 +121,12 @@ How?
 
 +++
 ### TO BE EXACT: "PENCITRAAN 2.0"
+Be wise with what you share in your social media account
 
 - Blog your learning experience, but don’t look like you are learning. Make it look like you are teaching. And yes, in English please|
 - For programmer, active in StackOverflow either asking or answering. |
 - For programmer, commit your code in Github. For designer, show case your design in dribble.com, deviantart.com, etc. |
 
-P.S: Be wise with what you share in your social media account
 +++
 
 ### PERFECT USE OF SOCIAL MEDIA!
