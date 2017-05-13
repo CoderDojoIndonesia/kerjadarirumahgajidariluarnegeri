@@ -82,8 +82,7 @@ Cara membaca?
 - 1 Unit Kerja dalam USD == 13.000 Unit Kerja dalam IDR
 - Jika di Indonesia dalam sebulan Anda dihargai 5.000.000, maka itu berarti di Amerika Anda hanya dihargai 384,6 |
 - Mau naik gaji ndak usah nuntut/demo macem-macem: tinggal tunggu dollar pas naik aja :) |
-
-PS: sedih amat negara ini ya..
+- PS: sedih amat negara ini ya.. |
 
 +++
 ### WHAT IF???
