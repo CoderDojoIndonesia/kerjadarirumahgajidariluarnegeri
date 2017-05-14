@@ -24,7 +24,7 @@ It's easy guys!
 
 <span style="color:gray">Stephen R. Covey - Seven Habits of Highly Effective People</span>
 
-+++
+---
 ### LET ME FIRST SEE WHERE Y'ALL COME FROM
 Strateginya akan berbeda: persiapan, eksekusi dan evaluasi
 - Pelajar |
@@ -34,7 +34,7 @@ Strateginya akan berbeda: persiapan, eksekusi dan evaluasi
 - Freelancer online |
 - Remote Worker |
 
-+++
+---
 ### WHAT ARE THE BENEFITS?
 - More time with family (probably not so good for lonely man)|
 - No traffic headache |
@@ -44,7 +44,7 @@ Strateginya akan berbeda: persiapan, eksekusi dan evaluasi
 - If there are lots of time zone gaps, you’ll be blessed with so much freedom (Tidur siang anyone?) |
 - You can pursue life. Not just office work (Capoeira anyone?) |
 
-+++
+---
 ### WHAT ARE THE DISADVANTAGES?
 - Jomblo will probably stay jomblo (just kidding)|
 - No bona fide office |
@@ -53,7 +53,7 @@ Strateginya akan berbeda: persiapan, eksekusi dan evaluasi
 - Rather difficult to explain it in laymen term |
 
 
-+++
+---
 ### PLUS VALUES IF YOU ARE A DAD
 You can become .. SuperDad!
 - Jika Anda muslim, mudahnya mendidik anak lanang sholat jama’ah ke masjid|
@@ -63,7 +63,7 @@ You can become .. SuperDad!
 - Overall? Dari sudut pandang pribadi: kebahagiaan yang hakiki :) |
 
 
-+++
+---
 ### LET'S NOT REPEAT RACHEL MISTAKES!
 Friends Season 3 Episode 10: The One Where Rachel Quits
 ![The One Where Rachel Quits](https://www.youtube.com/embed/0IwYV9xz0Bw)
@@ -80,17 +80,17 @@ Cara membaca?
 - Mau naik gaji ndak usah nuntut/demo macem-macem: tinggal tunggu dollar pas naik aja :) |
 - PS: sedih amat negara ini ya.. |
 
-+++
+---
 ### WHAT IF???
 - Anda bisa bekerja dari Indonesia, namun mendapat gaji dalam USD? Paid in USD, spent in IDR!|
 - Why? Karena kerja di luar negeri dengan cara pindah ke luar negeri.. kinda useless |
 
-+++
+---
 ### WE ARE ... TKI 2.0!
 
 Yeaaah!!!
 
-+++
+---
 ### BEFORE GOING ANY FURTHER
 Cara mendapatkan dollar dari luar negeri itu terlalu banyak caranya.
 Workshop kali ini memfokuskan target pada: "BAGAIMANA PERUSAHAAN LUAR NEGERI MAU MEMPERCAYAI ANDA PADA PEKERJAAN-PEKERJAAN YANG DISEDIAKANNYA"
@@ -111,15 +111,15 @@ REMEMBER THESE 10 MANTRA
 - PERSONAL BRANDING |
 - PERSONAL BRANDING |
 
-+++
+---
 ### WHY THE FOCUS ON PERSONAL BRANDING?
 Salah satu kisah pada buku Seni Berperang Sun-Tzu: "Pasukan yang berjumlah kecil berhasil membuat musuh yang jauh lebih kuat ketakutan, karena menyangka pasukan yang kecil tersebut bejumlah jauh lebih besar dari kekuatannya".
 How?
 
-+++
+---
 ### PENCITRAAN
 
-+++
+---
 ### TO BE EXACT: "PENCITRAAN 2.0"
 Be wise with what you share in your social media account
 
@@ -127,7 +127,7 @@ Be wise with what you share in your social media account
 - For programmer, active in StackOverflow either asking or answering. |
 - For programmer, commit your code in Github. For designer, show case your design in dribble.com, deviantart.com, etc. |
 
-+++
+---
 
 ### PERFECT USE OF SOCIAL MEDIA!
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/01-softlaunch-coderdojoid/rosid.png" width="50%" height="50%"/>
@@ -138,7 +138,7 @@ Check that posts:
 - No hate speech, politics: means, audience luas sekali. |
 - Hats off!!! |
 
-+++
+---
 ### OKAY, I ALREADY HAVE A GOOD BRAND. NOW WHAT?
 
 - What? Want to just listened?|
@@ -149,5 +149,5 @@ Check that posts:
 - Upwork|
 - Remoteok.io |
 
-+++
+---
 ### THANKS GUYS!
