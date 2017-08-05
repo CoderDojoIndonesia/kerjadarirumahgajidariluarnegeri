@@ -144,10 +144,19 @@ Check that posts:
 - Hats off!!! |
 
 ---
-### OKAY, I ALREADY HAVE A GOOD BRAND. NOW WHAT?
+### WHY PYTHON?
 
-- What? Want to just listened?|
-- Let's open your Laptop now! |
+- Top most programming Language of 2017
+- Readily available in all platform: desktop, mobile or web
+- Industry standard: due to its cross platform nature, you can find API access example using Python: Google, Facebook, Amazon, etc.
+- Open source, so you can find no company will be controlling the fate of your platform: Java anyone?
+
+---
+### THE KEY TO PYTHON IS .. IT's PACKAGES
+
+- Desktop: PyQt, WxPython, Kivy,
+- Web: Flask, Django
+- Mobile: Kivy
 
 ---
 ### WORKSHOP SESSION
