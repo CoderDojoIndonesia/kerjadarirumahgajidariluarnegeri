@@ -1,8 +1,11 @@
 <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python"/>
 
 ### Mastering Python to Conquer Online Remote Work Career
-Presented in BINUS ONLINE LEARNING
+BINUS ONLINE LEARNING
+
 August 5, 2017
+
+Eko S. Wibowo
 
 
 <br/>
