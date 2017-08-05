@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/01-softlaunch-coderdojoid/coderdojo.png" alt="CoderDojo" width="30%" height="30%"/>
+<img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python"/>
 
-### KERJA DARI RUMAH GAJI DARI LUAR NEGERI
+### Mastering Python to Conquer Online Remote Work Career
 
-It's easy guys!
+
 <br/>
 <br/>
 <br/>
