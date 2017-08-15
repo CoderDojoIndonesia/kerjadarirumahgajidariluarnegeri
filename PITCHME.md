@@ -19,6 +19,7 @@ Eko S. Wibowo
 <span style="color:gray">Bekasi, 2017-08-19</span>
 <br/>
 <span style="color:gray">http://coderdojo.id</span>
+
 ---
 ### QUOTE UTAMA
 *"Berapa banyak orang yang di ranjang kematiannya, mengharap untuk segera kembali ke kantor?"*
@@ -29,14 +30,23 @@ Eko S. Wibowo
 <span style="color:gray">Stephen R. Covey - Seven Habits of Highly Effective People</span>
 
 ---
-### LET ME FIRST SEE WHERE Y'ALL COME FROM
+### FREELANCER LEVELS
+Based on experience
+- Freelancer achak-adhut |
+- Freelancer online |
+- Remote work |
+
+Bonus Level
+- Team |
+- Publisher |
+
+---
+### BACKGROUND CHECK: DIFFERENT STRATEGY
 Strateginya akan berbeda: persiapan, eksekusi dan evaluasi
 - Pelajar |
 - Mahasiswa |
-- Pekerja kantor |
 - Pekerja serabutan |
-- Freelancer online |
-- Remote Worker |
+- Pekerja kantor |
 
 ---
 ### WHAT ARE THE BENEFITS?
