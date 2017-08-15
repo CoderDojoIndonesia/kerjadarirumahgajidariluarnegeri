@@ -1,9 +1,9 @@
 <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python"/>
 
-### Mastering Python to Conquer Online Remote Work Career
-BINUS ONLINE LEARNING
+### MERAIH RIBUAN DOLLAR PERBULAN SEBAGAI FREELANCER
+UNIVERSITAS PELITA BANGSA
 
-August 5, 2017
+August 19, 2017
 
 Eko S. Wibowo
 
@@ -16,13 +16,12 @@ Eko S. Wibowo
 <br/>
 <span style="color:gray">Eko S. Wibowo</span>
 <br/>
-<span style="color:gray">Jogjakarta, 2017-05-13</span>
+<span style="color:gray">Bekasi, 2017-08-19</span>
 <br/>
 <span style="color:gray">http://coderdojo.id</span>
-
 ---
 ### QUOTE UTAMA
-*"Betapa banyak orang yang di ranjang kematiannya, mengharap untuk segera kembali ke kantor?"*
+*"Berapa banyak orang yang di ranjang kematiannya, mengharap untuk segera kembali ke kantor?"*
 
 *"Don't put your ladder against the wrong wall"*
 
