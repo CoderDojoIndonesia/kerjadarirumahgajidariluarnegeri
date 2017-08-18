@@ -176,6 +176,7 @@ Check that posts:
 <img src="profile.PNG"/>
 ---
 First Client
+
 <img src="1st.PNG"/>
 
 ---
@@ -185,7 +186,9 @@ First Client
 ---
 - Pythonblogs (Python) |
 - ForexSecure.net |
-- Full list http://bit.ly/swdev-cv |
+- Full list ?
+---
+http://bit.ly/swdev-cv |
 ---
 ### WHY PYTHON?
 
@@ -243,11 +246,8 @@ First Client
 
 
 ---
-### THANKS GUYS!
+### Final note?
 
-Final note?
-
----
 <img src="learn.PNG" alt="Never stop learning"/>
 
 ---
@@ -260,3 +260,13 @@ What is pythonthusiast.com?
 - English corner |
 - Slack channel communication or private chat |
 - Motivate each other |
+
+---
+### THANKS GUYS, AND ...
+---
+
+Ping me for Questions regarding remote work.
+I'll be more than happy to help.
+
+That's my passion!
+Keep up!
