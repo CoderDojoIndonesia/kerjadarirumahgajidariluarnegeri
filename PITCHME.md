@@ -19,18 +19,18 @@ http://pythonthusiast.com
 
 ---
 ### IT'S ALL ABOUT YOUR PASSION
-- Different people, different passion
-- Identify your passion, and reach it out to it
-- Mine?
+- Different people, different passion |
+- Identify your passion, and reach it out to it |
+- Mine? |
 
 ---
 <img src="passion.png" alt="Passion"/>
 
 ---
 Can you spot what is so interesting from the pic above?
-- The date
-- The hour
-- It's working day
+- The date |
+- The hour |
+- It's working day! |
 
 ---
 ### FREELANCER LEVELS
@@ -145,12 +145,12 @@ Be wise with what you share in your social media account
 
 ---
 ### Apa bedanya pencitraan dengan pamer?
-- Luruskan niat: self branding
-- Pada akhirnya: biarkan orang lain berbicara
+- Luruskan niat: self branding |
+- Pada akhirnya: biarkan orang lain berbicara |
 ---
 
 ### PERFECT USE OF SOCIAL MEDIA!
-<img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/01-softlaunch-coderdojoid/rosid.png" width="50%" height="50%"/>
+<img src="rosid.png" width="50%" height="50%"/>
 
 Check that posts:
 - Github portfolio, opensource project means recognized in OSS world, star and f**k number!|
@@ -159,24 +159,9 @@ Check that posts:
 - Hats off!!! |
 
 ---
-### WHY PYTHON?
-
-- Top most programming Language of 2017
-- Readily available in all platform: desktop, mobile or web
-- Industry standard: due to its cross platform nature, you can find API access example using Python: Google, Facebook, Amazon, etc.
-- Open source, so you can find no company will be controlling the fate of your platform: Java anyone?
-
----
-### THE KEY TO PYTHON IS .. IT's PACKAGES
-
-- Desktop: PyQt, WxPython, Kivy,
-- Web: Flask, Django
-- Mobile: Kivy
-
----
 ### NOTABLE WORK HISTORY
 - Gamatechno |
-- Konsultan Skripsi di http://swdevsoftwareconsulting.blogspot.com
+- Konsultan Skripsi di http://swdevsoftwareconsulting.blogspot.com |
 - Gameloft |
 - Upwork |
 - SaleStock |
@@ -185,9 +170,50 @@ Check that posts:
 ---
 ### NOTABLE REMOTE CLIENT WORK HISTORY
 
+<img src="profile.PNG"/>
+---
+
+- First Client |
+<img src="1st.PNG"/>
+
+---
+
+- Box.com (Australia) - iOS |
+- Sam Rowe (Australia) - C# |
+- MeetingBurner (US) - Java |
+
+---
+
 - Pythonblogs (Python) |
-- Sam Rowe (Australia) |
--
+- ForexSecure.net |
+- Full list http://bit.ly/swdev-cv |
+---
+### WHY PYTHON?
+
+- Easy to understand!
+- Prove?
+---
+<img src="kahfi.PNG"/>
+
+---
+- Top most programming Language of 2017 |
+- Readily available in all platform: desktop, mobile or web |
+- Industry standard: due to its cross platform nature, you can find API access example using Python: Google, Facebook, Amazon, etc. |
+- Open source, so you can find no company will be controlling the fate of your platform: Java anyone? |
+
+---
+### THE KEY TO PYTHON IS .. IT's PACKAGES
+
+- Desktop: PyQt, WxPython, Kivy |
+- Web: Django, Flask, Pylons/Pyramid |
+- Mobile: Kivy, PyGame Subset for Android (ps4a) |
+
+---
+### POPULAR WEBSITE BUILT WITH PYTHON
+
+- Instagram |
+- Pinterest |
+- Quora |
 
 ---
 ### UPWORK EARNING HISTORY
