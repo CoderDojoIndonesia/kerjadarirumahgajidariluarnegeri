@@ -26,7 +26,11 @@ http://pythonthusiast.com
 ---
 <img src="passion.png" alt="Passion"/>
 
+---
 Can you spot what is so interesting from the pic above?
+- The date
+- The hour
+- It's working day
 
 ---
 ### FREELANCER LEVELS
@@ -84,10 +88,9 @@ Hear, hear, hear y'all!
 
 
 ---
-### REMEMBER: WE ARE PAID IN USD
-![Fluktuasi Kurs IDR<->USD](https://ichart.finance.yahoo.com/5y?usdidr=x)
+### WHAT DOES PAID IN USD MEANS?
+<img src="usdchart.png" alt="USD to IDR chart flux"/>
 
-Cara membaca?
 - 1 Unit Kerja dalam USD == 13.000 Unit Kerja dalam IDR|
 - Jika di Indonesia dalam sebulan Anda dihargai 5.000.000, maka itu berarti di Amerika Anda hanya dihargai 384,6 |
 - Mau naik gaji ndak usah nuntut/demo macem-macem: tinggal tunggu dollar pas naik aja :) |
@@ -105,7 +108,7 @@ Yeaaah!!!
 
 ---
 ### BEFORE GOING ANY FURTHER
-Cara mendapatkan dollar dari luar negeri itu terlalu banyak caranya.
+Cara mendapatkan dollar dari luar negeri itu _terlalu_ banyak caranya.
 Workshop kali ini memfokuskan target pada: "BAGAIMANA PERUSAHAAN LUAR NEGERI MAU MEMPERCAYAI ANDA PADA PEKERJAAN-PEKERJAAN YANG DISEDIAKANNYA"
 
 ---
@@ -141,6 +144,10 @@ Be wise with what you share in your social media account
 - For programmer, commit your code in Github. For designer, show case your design in dribble.com, deviantart.com, etc. |
 
 ---
+### Apa bedanya pencitraan dengan pamer?
+- Luruskan niat: self branding
+- Pada akhirnya: biarkan orang lain berbicara
+---
 
 ### PERFECT USE OF SOCIAL MEDIA!
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/01-softlaunch-coderdojoid/rosid.png" width="50%" height="50%"/>
@@ -167,9 +174,53 @@ Check that posts:
 - Mobile: Kivy
 
 ---
-### WORKSHOP SESSION
-- Upwork|
+### NOTABLE WORK HISTORY
+- Gamatechno |
+- Konsultan Skripsi di http://swdevsoftwareconsulting.blogspot.com
+- Gameloft |
+- Upwork |
+- SaleStock |
 - Remoteok.io |
 
 ---
+### NOTABLE REMOTE CLIENT WORK HISTORY
+
+- Pythonblogs (Python) |
+- Sam Rowe (Australia) |
+-
+
+---
+### UPWORK EARNING HISTORY
+
+<img src="2010.png" alt="Earning 2010"/>
+---
+
+<img src="2011.png" alt="Earning 2011"/>
+---
+
+<img src="2012.png" alt="Earning 2012"/>
+---
+
+<img src="2013.png" alt="Earning 2013"/>
+---
+
+<img src="2014.png" alt="Earning 2014"/>
+---
+
+<img src="2015.png" alt="Earning 2015"/>
+---
+
+<img src="2016.png" alt="Earning 2016"/>
+---
+
+<img src="2017.png" alt="Earning 2017"/>
+---
+
+
+---
 ### THANKS GUYS!
+
+Final note?
+
+---
+<img src="learn.PNG" alt="Never stop learning"/>
