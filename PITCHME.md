@@ -30,7 +30,7 @@ http://pythonthusiast.com
 Can you spot what is so interesting from the pic above?
 - The date |
 - The hour |
-- It's working day! |
+- It's working hour! |
 
 ---
 ### FREELANCER LEVELS
@@ -39,13 +39,13 @@ Can you spot what is so interesting from the pic above?
 - Remote work |
 
 ---
-Bonus Levels
+### Extra Levels
 - Team building |
 - Publisher |
 
 ---
 ### BACKGROUND CHECK: DIFFERENT STRATEGY
-Strateginya akan berbeda: persiapan, eksekusi dan evaluasi
+Strategi memulai perjalanan sebagai freelamcer akan berbeda: persiapan, eksekusi dan evaluasi
 - Pelajar |
 - Mahasiswa |
 - Pekerja serabutan |
@@ -68,6 +68,7 @@ Strateginya akan berbeda: persiapan, eksekusi dan evaluasi
 - If you don’t plan it well, you may not have social life |
 - Often, it’s hard to remember: which day today? |
 - Rather difficult to explain it in laymen term |
+- Careful, socialize with your neighborhood: or they may suspicious of what you actually do |
 
 
 ---
