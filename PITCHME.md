@@ -275,7 +275,7 @@ That's my passion!
 Keep up!
 
 ---
-Presented in Bekasi, 19 Agustus 2019
+Presented in Bekasi, 19 Agustus 2017
 
 Eko Suprapto Wibowo
 
