@@ -26,6 +26,8 @@ http://pythonthusiast.com
 ---
 <img src="passion.png" alt="Passion"/>
 
+Can you spot what is so interesting from the pic above?
+
 ---
 ### FREELANCER LEVELS
 - Freelancer _achak-adhut_ |
