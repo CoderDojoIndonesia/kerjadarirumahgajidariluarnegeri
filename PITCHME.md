@@ -19,8 +19,8 @@ http://pythonthusiast.com
 
 ---
 ### FREELANCER LEVELS
-Based on experience
-- Freelancer achak-adhut |
+Categorized based on my personal experience
+- Freelancer _achak-adhut_ |
 - Freelancer online |
 - Remote work |
 
