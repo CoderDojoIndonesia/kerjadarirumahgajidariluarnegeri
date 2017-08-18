@@ -186,7 +186,8 @@ First Client
 ---
 - Pythonblogs (Python) |
 - ForexSecure.net |
-- Full list ?
+- MonetizeMore.com |
+- Full list ? |
 ---
 http://bit.ly/swdev-cv |
 ---
@@ -266,7 +267,16 @@ What is pythonthusiast.com?
 ---
 
 Ping me for Questions regarding remote work.
+
 I'll be more than happy to help.
 
 That's my passion!
+
 Keep up!
+
+---
+Presented in Bekasi, 19 Agustus 2019
+
+Eko Suprapto Wibowo
+
+UNIVERSITAS PELITA BANGSA
