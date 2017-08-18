@@ -3,12 +3,9 @@
 
 UNIVERSITAS PELITA BANGSA
 
-<br/>
-<span style="color:gray">Eko S. Wibowo</span>
-<br/>
-<span style="color:gray">Bekasi, 2017-08-19</span>
-<br/>
-<span style="color:gray">http://coderdojo.id</span>
+Eko S. Wibowo
+Bekasi, 2017-08-19
+http://pythonthusiast.com
 
 ---
 ### QUOTE UTAMA
