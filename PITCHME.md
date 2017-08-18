@@ -154,6 +154,7 @@ Be wise with what you share in your social media account
 ### PERFECT USE OF SOCIAL MEDIA!
 <img src="rosid.png" width="50%" height="50%"/>
 
+---
 Check that posts:
 - Github portfolio, opensource project means recognized in OSS world, star and f**k number!|
 - Memotivasi audience! |
@@ -163,7 +164,7 @@ Check that posts:
 ---
 ### NOTABLE WORK HISTORY
 - Gamatechno |
-- Konsultan Skripsi di http://swdevsoftwareconsulting.blogspot.com |
+- Konsultan Skripsi |
 - Gameloft |
 - Upwork |
 - SaleStock |
