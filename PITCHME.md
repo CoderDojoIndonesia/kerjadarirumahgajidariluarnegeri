@@ -37,7 +37,7 @@ Can you spot what is so interesting from the pic above?
 ### FREELANCER LEVELS
 - Freelancer achak-adhut |
 - Freelancer online |
-- Remote work |
+- Long Term Fixed Remote Employee |
 
 ---
 ### Extra Levels
