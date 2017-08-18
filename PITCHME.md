@@ -1,14 +1,14 @@
-### MERAIH RIBUAN DOLLAR PERBULAN SEBAGAI FREELANCER
+# MERAIH RIBUAN DOLLAR PERBULAN SEBAGAI FREELANCER
 
 <img src="pythonthusiast.png" alt="Pythonthusiast"/>
 
-UNIVERSITAS PELITA BANGSA
+## UNIVERSITAS PELITA BANGSA
 
-Eko S. Wibowo
+### Eko S. Wibowo
 
-Bekasi, 2017-08-19
+### Bekasi, 2017-08-19
 
-http://pythonthusiast.com
+### http://pythonthusiast.com
 
 ---
 ### QUOTE UTAMA
