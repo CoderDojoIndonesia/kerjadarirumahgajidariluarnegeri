@@ -1,12 +1,10 @@
-### KERJA DARI RUMAH GAJI DARI LUAR NEGERI
+### MERAIH RIBUAN DOLLAR PERBULAN SEBAGAI FREELANCER
 
 <img src="pythonthusiast.png" alt="Pythonthusiast"/>
 
 UNIVERSITAS PELITA BANGSA
 
 Eko S. Wibowo
-
-Bekasi, 2017-08-19
 
 http://pythonthusiast.com
 
