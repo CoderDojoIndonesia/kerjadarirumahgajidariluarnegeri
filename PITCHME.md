@@ -19,12 +19,12 @@ http://pythonthusiast.com
 
 ---
 ### FREELANCER LEVELS
-Based on experience
+Based on experience |
 - Freelancer achak-adhut |
 - Freelancer online |
 - Remote work |
 
-Bonus Level
+Bonus Level |
 - Team |
 - Publisher |
 
