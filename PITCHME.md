@@ -34,14 +34,14 @@ Can you spot what is so interesting from the pic above?
 
 ---
 ### FREELANCER LEVELS
-- Freelancer _achak-adhut_ |
+- Freelancer achak-adhut |
 - Freelancer online |
 - Remote work |
 
 ---
 ### Extra Levels
-- Team building |
-- Publisher |
+- Build a team, delegate to your staffs |
+- Ads Publisher|
 
 ---
 ### BACKGROUND CHECK: DIFFERENT STRATEGY
@@ -80,8 +80,15 @@ You can become .. SuperDad!
 - Bisa day-to-day amati, arahkan dan perbaiki perkembangan anak |
 - Overall? Dari sudut pandang pribadi: kebahagiaan yang hakiki :) |
 
+### CHALLENGE TO START FREELANCING JOB I
+- Remember what Loki said about freedom |
+<img src="
+---http://data.whicdn.com/images/89495240/large.jpg"/>
 
 ---
+- Tips bekerja fulltime 8 jam / hari, dari rumah |
+
+
 ### LET'S NOT REPEAT RACHEL MISTAKES!
 Friends Season 3 Episode 10: The One Where Rachel Quits
 ![The One Where Rachel Quits](https://www.youtube.com/embed/0IwYV9xz0Bw)
