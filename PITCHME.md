@@ -21,6 +21,7 @@ http://pythonthusiast.com
 ### IT'S ALL ABOUT YOUR PASSION
 - Different people, different passion |
 - Identify your passion, and reach it out to it |
+- E.g: Guru/dosen, PNS, Tentara, Dokter, etc. |
 - Mine? |
 
 ---
@@ -80,15 +81,18 @@ You can become .. SuperDad!
 - Bisa day-to-day amati, arahkan dan perbaiki perkembangan anak |
 - Overall? Dari sudut pandang pribadi: kebahagiaan yang hakiki :) |
 
+---
 ### CHALLENGE TO START FREELANCING JOB I
 - Remember what Loki said about freedom |
 <img src="
----http://data.whicdn.com/images/89495240/large.jpg"/>
+http://data.whicdn.com/images/89495240/large.jpg"/>
 
 ---
-- Tips bekerja fulltime 8 jam / hari, dari rumah |
+### CHALLENGE TO START FREELANCING JOB II
+- How to work 8 hour / day from home? |
+- Bagi waktu kerja / belajar dalam chunk 2 jam, dan selingi dengan beragam aktivitas kehidupanmu |
 
-
+___
 ### LET'S NOT REPEAT RACHEL MISTAKES!
 Friends Season 3 Episode 10: The One Where Rachel Quits
 ![The One Where Rachel Quits](https://www.youtube.com/embed/0IwYV9xz0Bw)
