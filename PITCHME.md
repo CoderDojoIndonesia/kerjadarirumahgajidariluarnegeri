@@ -175,18 +175,14 @@ Check that posts:
 
 <img src="profile.PNG"/>
 ---
-
-- First Client |
+First Client
 <img src="1st.PNG"/>
 
 ---
-
 - Box.com (Australia) - iOS |
 - Sam Rowe (Australia) - C# |
 - MeetingBurner (US) - Java |
-
 ---
-
 - Pythonblogs (Python) |
 - ForexSecure.net |
 - Full list http://bit.ly/swdev-cv |
