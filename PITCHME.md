@@ -224,3 +224,14 @@ Final note?
 
 ---
 <img src="learn.PNG" alt="Never stop learning"/>
+
+---
+What is pythonthusiast.com?
+- One time paymnent, lifetime access|
+- Python for Remote Work|
+- "Assist me in my remote work career!"|
+
+---
+- English corner |
+- Slack channel communication or private chat |
+- Motivate each other |
