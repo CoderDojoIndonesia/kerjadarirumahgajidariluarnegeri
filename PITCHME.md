@@ -18,8 +18,16 @@ http://pythonthusiast.com
 <span style="color:gray">Stephen R. Covey - Seven Habits of Highly Effective People</span>
 
 ---
+### IT'S ALL ABOUT YOUR PASSION
+- Different people, different passion
+- Identify your passion, and reach it out to it
+- Mine?
+
+---
+<img src="passion.png" alt="Passion"/>
+
+---
 ### FREELANCER LEVELS
-Categorized based on my personal experience
 - Freelancer _achak-adhut_ |
 - Freelancer online |
 - Remote work |
