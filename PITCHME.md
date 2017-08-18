@@ -1,18 +1,8 @@
+### MERAIH RIBUAN DOLLAR PERBULAN SEBAGAI FREELANCER
 <img src="pythonthusiast.png" alt="Pythonthusiast"/>
 
-### MERAIH RIBUAN DOLLAR PERBULAN SEBAGAI FREELANCER
 UNIVERSITAS PELITA BANGSA
 
-August 19, 2017
-
-Eko S. Wibowo
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <span style="color:gray">Eko S. Wibowo</span>
 <br/>
