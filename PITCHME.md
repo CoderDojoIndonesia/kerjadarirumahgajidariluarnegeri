@@ -1,4 +1,4 @@
-<img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python"/>
+<img src="pythonthusiast.png" alt="Pythonthusiast"/>
 
 ### MERAIH RIBUAN DOLLAR PERBULAN SEBAGAI FREELANCER
 UNIVERSITAS PELITA BANGSA
