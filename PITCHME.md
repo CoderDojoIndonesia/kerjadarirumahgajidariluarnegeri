@@ -1,4 +1,4 @@
-### MERAIH RIBUAN DOLLAR PERBULAN SEBAGAI FREELANCER
+### KERJA DARI RUMAH GAJI DARI LUAR NEGERI
 
 <img src="pythonthusiast.png" alt="Pythonthusiast"/>
 
