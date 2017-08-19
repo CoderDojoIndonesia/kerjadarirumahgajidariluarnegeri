@@ -84,8 +84,7 @@ You can become .. SuperDad!
 ---
 ### CHALLENGE TO START FREELANCING JOB I
 - Remember what Loki said about freedom |
-<img src="
-http://data.whicdn.com/images/89495240/large.jpg"/>
+- Kebebasan adalah hak asasi utama Manusia |
 
 ---
 ### CHALLENGE TO START FREELANCING JOB II
