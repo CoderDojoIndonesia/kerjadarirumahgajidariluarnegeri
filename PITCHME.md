@@ -91,6 +91,11 @@ You can become .. SuperDad!
 - How to work 8 hour / day from home? |
 - Bagi waktu kerja / belajar dalam chunk 2 jam, dan selingi dengan beragam aktivitas kehidupanmu |
 
+---
+### CHALLENGE TO START FREELANCING JOB III
+- Reading, writing and speaking in English |
+- Tips: nonton film Bahasa Inggris: tanpa subtitle atau dengan subtitle Bahasa Inggris |
+
 ___
 ### LET'S NOT REPEAT RACHEL MISTAKES!
 Friends Season 3 Episode 10: The One Where Rachel Quits
