@@ -2,7 +2,7 @@
 
 <img src="pythonthusiast.png" alt="Pythonthusiast"/>
 
-UNIVERSITAS PELITA BANGSA
+UNIVERSITY CENTER - GADJAH MADA UNIVERSITY
 
 Eko S. Wibowo
 
@@ -17,8 +17,7 @@ http://pythonthusiast.com
 
 <span style="color:gray">Stephen R. Covey - Seven Habits of Highly Effective People</span>
 
----
-### IT'S ALL ABOUT YOUR PASSION
+---### IT'S ALL ABOUT YOUR PASSION
 - Different people, different passion |
 - Identify your passion, and reach it out to it |
 - E.g: Guru/dosen, PNS, Tentara, Dokter, etc. |
@@ -291,8 +290,8 @@ That's my passion!
 Keep up!
 
 ---
-Presented in Bekasi, 19 Agustus 2017
+Presented in Yogyakarta, 24 Agustus 2017
 
-Eko Suprapto Wibowo
+Eko S. Wibowo
 
-UNIVERSITAS PELITA BANGSA
+UNIVERSITY CENTER - GADJAH MADA UNIVERSITY
