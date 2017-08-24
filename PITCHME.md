@@ -19,7 +19,7 @@ http://pythonthusiast.com
 ---
 ### IT'S ALL ABOUT YOUR PASSION
 - Different people, different passion |
-- Identify your passion, and reach it out to it |
+- Identify your passion, and reach out to it |
 - E.g: Guru/dosen, PNS, Tentara, Dokter, etc. |
 - Mine? |
 
@@ -42,11 +42,11 @@ Can you spot what is so interesting from the pic above?
 ### FREELANCER LEVELS
 - Freelancer achak-adhut |
 - Freelancer online |
-- Long Term Fixed Remote Employee |
+- Remote Long Term Employee |
 
 ---
 ### Extra Levels
-- Build a team, delegate to your staffs |
+- Build a team, delegate to your staffs. Startup. |
 - Ads Publisher|
 
 ---
@@ -68,16 +68,6 @@ Strategi memulai perjalanan sebagai freelamcer akan berbeda: persiapan, eksekusi
 - You can pursue life. Not just office work (Capoeira anyone?) |
 
 ---
-### WHAT ARE THE DISADVANTAGES?
-- Jomblo will probably stay jomblo (just kidding)|
-- No bona fide office |
-- If you don’t plan it well, you may not have social life |
-- Often, it’s hard to remember: which day today? |
-- Rather difficult to explain it in laymen term |
-- Careful, socialize with your neighborhood: or they may suspicious of what you actually do |
-
-
----
 ### PLUS VALUES IF YOU ARE A DAD
 You can become .. SuperDad!
 - Jika Anda muslim, mudahnya mendidik anak lanang sholat jama’ah ke masjid|
@@ -87,9 +77,19 @@ You can become .. SuperDad!
 - Overall? Dari sudut pandang pribadi: kebahagiaan yang hakiki :) |
 
 ---
+### WHAT ARE THE DISADVANTAGES?
+- Jomblo will probably stay jomblo (just kidding)|
+- No bona fide office |
+- If you don’t plan it well, you may not have social life |
+- Often, it’s hard to remember: which day today? |
+- Rather difficult to explain it in laymen term |
+- Careful, socialize with your neighborhood: or they may suspicious of what you actually do |
+
+---
 ### CHALLENGE TO START FREELANCING JOB I
 - Remember what Loki said about freedom |
-- Kebebasan adalah hak asasi utama Manusia |
+<img src="loki.png" /> |
+- Do you agree with Loki? Seriously? |
 
 ---
 ### CHALLENGE TO START FREELANCING JOB II
