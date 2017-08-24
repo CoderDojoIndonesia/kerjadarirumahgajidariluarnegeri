@@ -1,16 +1,12 @@
 ###### COMMITMENT OF THE NEW EMERGING FREELANCERS
-####### STAY AT HOME, PULL DOLLARS, GET A LIFE 
+###### STAY AT HOME, PULL DOLLARS, GET A LIFE 
 
 <img src="pythonthusiast.png" alt="Pythonthusiast"/>
 
-UNIVERSITY CENTER
-
-GADJAH MADA UNIVERSITY
-
-Eko S. Wibowo
-
+###### UNIVERSITY CENTER
+###### GADJAH MADA UNIVERSITY
+###### Eko S. Wibowo
 http://pythonthusiast.com
-
 ---
 ### QUOTE UTAMA
 *"Berapa banyak orang yang di ranjang kematiannya, mengharap untuk segera kembali ke kantor?"*
