@@ -63,7 +63,8 @@ Strategi memulai perjalanan sebagai freelamcer akan berbeda: persiapan, eksekusi
 
 ---
 ### WHAT ARE THE BENEFITS?
-More time with family (probably not so good for lonely man)|
+More time with family (probably not so good for lonely man)
+
 <img src="capkids.png" />
 
 ---
@@ -230,6 +231,7 @@ First Client
 <img src="1st.png"/>
 
 ---
+---
 - Box.com (Australia) - iOS |
 - Sam Rowe (Australia) - C# |
 - MeetingBurner (US) - Java |
@@ -239,7 +241,7 @@ First Client
 - MonetizeMore.com - Python |
 - Full list ? |
 ---
-http://bit.ly/swdev-cv |
+http://bit.ly/swdev-cv
 ---
 ### WHY PYTHON?
 
@@ -260,8 +262,8 @@ http://bit.ly/swdev-cv |
 - Desktop: PyQt, WxPython, Kivy |
 - Web: Django, Flask, Pylons/Pyramid |
 - Mobile: Kivy, PyGame Subset for Android (ps4a) |
-- BigData: numpy, scipy
-- Networking: Tornado, Twisted
+- BigData: numpy, scipy |
+- Networking: Tornado, Twisted |
 
 ---
 ### POPULAR WEBSITE BUILT WITH PYTHON
@@ -310,6 +312,7 @@ http://pythonthusiast.com
 
 ---
 What is pythonthusiast.com?
+- Inspired by CoderDojo.com movement |
 - Remote work mentoring to its fullest! |
 - One time paymnent, lifetime access|
 - Community of motivated remote worker wannabe |
@@ -323,13 +326,9 @@ What is pythonthusiast.com?
 ---
 
 - Ping me for Questions regarding remote work. |
-
 - 08122221975 |
-
 - I'll be more than happy to help. |
-
 - That's my passion! |
-
 - Keep up! !
 
 ---
