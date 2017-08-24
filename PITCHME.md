@@ -50,6 +50,9 @@ Can you spot what is so interesting from the pic above?
 - Ads Publisher|
 
 ---
+<img src="tl.jpg" />
+
+---
 ### BACKGROUND CHECK: DIFFERENT STRATEGY
 Strategi memulai perjalanan sebagai freelamcer akan berbeda: persiapan, eksekusi dan evaluasi
 - Pelajar |
@@ -60,21 +63,36 @@ Strategi memulai perjalanan sebagai freelamcer akan berbeda: persiapan, eksekusi
 ---
 ### WHAT ARE THE BENEFITS?
 - More time with family (probably not so good for lonely man)|
+<img src="capkids.png" />
+
+---
 - No traffic headache |
 - No office politics |
 - Paid in USD.. so, $1500/month(*) is just under minimum |
-- You can fire your boss(es) |
-- If there are lots of time zone gaps, you’ll be blessed with so much freedom (Tidur siang anyone?) |
-- You can pursue life. Not just office work (Capoeira anyone?) |
 
 ---
-### PLUS VALUES IF YOU ARE A DAD
-You can become .. SuperDad!
-- Jika Anda muslim, mudahnya mendidik anak lanang sholat jama’ah ke masjid|
-- Sholat Jum’at? Tiap jum’at bisa eksplore masjid-masjid baru |
-- Bisa bareng menekuni beladiri rutin, 2-3x seminggu |
-- Bisa day-to-day amati, arahkan dan perbaiki perkembangan anak |
-- Overall? Dari sudut pandang pribadi: kebahagiaan yang hakiki :) |
+- Work everywhere!
+<img src="mac.png" />
+
+---
+<img src="hasil.png" />
+
+---
+
+- You can fire your boss(es) |
+- If there are lots of time zone gaps, you’ll be blessed with so much freedom (Tidur siang anyone?) |
+- Suasana hidup? Pensiunan |
+
+---
+### Pursue life. Get a life! 
+
+<img src="tukang.png" />
+
+---
+<img src="saito.png" />
+
+---
+<img src="handstand.png" />
 
 ---
 ### WHAT ARE THE DISADVANTAGES?
@@ -86,12 +104,21 @@ You can become .. SuperDad!
 - Careful, socialize with your neighborhood: or they may suspicious of what you actually do |
 
 ---
-### CHALLENGE TO START FREELANCING JOB I
-<img src="loki.png" />
-- Freedom can be dangerous, yes. But do you agree with Loki? | 
+### PLUS VALUES IF YOU ARE A DAD
+You can become .. SuperDad!
+- Jika Anda muslim, mudahnya mendidik anak lanang sholat jama’ah ke masjid|
+- Sholat Jum’at? Tiap jum’at bisa eksplore masjid-masjid baru |
+- Bisa bareng menekuni beladiri rutin, 2-3x seminggu |
+- Bisa day-to-day amati, arahkan dan perbaiki perkembangan anak |
+- Overall? Dari sudut pandang pribadi: kebahagiaan yang hakiki :) |
 
 ---
-### CHALLENGE TO START FREELANCING JOB II
+### CHALLENGE TO START FREELANCING JOB I: Freedom
+<img src="loki.png" />
+- But do you agree with Loki? | 
+
+---
+### CHALLENGE TO START FREELANCING JOB II: Time management
 - How to work 8 hour / day from home? |
 - Bagi waktu kerja / belajar dalam chunk 2 jam, dan selingi dengan beragam aktivitas kehidupanmu |
 
@@ -111,12 +138,12 @@ Hear, hear, hear y'all!
 ### WHAT DOES PAID IN USD MEANS?
 <img src="usdchart.png" alt="USD to IDR chart flux"/>
 
-- 1 Unit Kerja dalam USD == 13.000 Unit Kerja dalam IDR|
-
+- 1 Unit penghargaan kerja dalam USD == 13.000 dalam IDR|
 ---
 - Jika di Indonesia dalam sebulan Anda dihargai 5.000.000, maka itu berarti di Amerika Anda hanya dihargai 384,6 |
+- Hargai waktu kerjamu! |
 - Mau naik gaji ndak usah nuntut/demo macem-macem: tinggal tunggu dollar pas naik aja :) |
-- PS: sedih amat negara ini ya.. |
+- Note: gaji startup terkini! |
 
 ---
 ### WHAT IF???
@@ -126,7 +153,8 @@ Hear, hear, hear y'all!
 ---
 ### WE ARE ... TKI 2.0!
 
-Yeaaah!!!
+- Yeaaah!!! |
+- Note about big company closing theif offline offices |
 
 ---
 ### BEFORE GOING ANY FURTHER
@@ -189,6 +217,7 @@ Check that posts:
 - Upwork |
 - SaleStock |
 - Remoteok.io |
+- MonetizeMore.com |
 
 ---
 ### NOTABLE REMOTE CLIENT WORK HISTORY
@@ -204,9 +233,9 @@ First Client
 - Sam Rowe (Australia) - C# |
 - MeetingBurner (US) - Java |
 ---
-- Pythonblogs (Python) |
-- ForexSecure.net |
-- MonetizeMore.com |
+- Pythonblogs (US) - Python |
+- ForexSecure.net - Python |
+- MonetizeMore.com - Python |
 - Full list ? |
 ---
 http://bit.ly/swdev-cv |
@@ -230,13 +259,22 @@ http://bit.ly/swdev-cv |
 - Desktop: PyQt, WxPython, Kivy |
 - Web: Django, Flask, Pylons/Pyramid |
 - Mobile: Kivy, PyGame Subset for Android (ps4a) |
+- BigData: numpy, scipy
+- Networking: Tornado, Twisted
 
 ---
 ### POPULAR WEBSITE BUILT WITH PYTHON
 
-- Instagram |
-- Pinterest |
-- Quora |
+<img src="instagram.png" />
+
+---
+
+<img src="pinterest.png" />
+
+---
+
+
+<img src="quora.png" />
 
 ---
 ### UPWORK EARNING HISTORY
@@ -270,29 +308,31 @@ http://bit.ly/swdev-cv |
 ### Final note?
 
 <img src="learn.png" alt="Never stop learning"/>
+http://pythonthusiast.com
 
 ---
 What is pythonthusiast.com?
+- Remote work mentoring to its fullest! |
 - One time paymnent, lifetime access|
-- Python for Remote Work|
-- "Assist me in my remote work career!"|
+- Community of motivated remote worker wannabe |
 
 ---
 - English corner |
 - Slack channel communication or private chat |
-- Motivate each other |
 
 ---
 ### THANKS GUYS, AND ...
 ---
 
-Ping me for Questions regarding remote work.
+- Ping me for Questions regarding remote work. |
 
-I'll be more than happy to help.
+- 08122221975 |
 
-That's my passion!
+- I'll be more than happy to help. |
 
-Keep up!
+- That's my passion! |
+
+- Keep up! !
 
 ---
 Presented in Yogyakarta, 24 Agustus 2017
