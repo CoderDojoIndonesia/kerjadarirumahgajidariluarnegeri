@@ -27,6 +27,12 @@ http://pythonthusiast.com
 <img src="passion.png" alt="Passion"/>
 
 ---
+<img src="kahfi-school.png" alt="Passion"/>
+
+---
+<img src="movie.png" alt="Passion"/>
+
+---
 Can you spot what is so interesting from the pic above?
 - The date |
 - The hour |
@@ -188,11 +194,11 @@ Check that posts:
 ---
 ### NOTABLE REMOTE CLIENT WORK HISTORY
 
-<img src="profile.PNG"/>
+<img src="profile.png"/>
 ---
 First Client
 
-<img src="1st.PNG"/>
+<img src="1st.png"/>
 
 ---
 - Box.com (Australia) - iOS |
@@ -211,7 +217,7 @@ http://bit.ly/swdev-cv |
 - Easy to understand!
 - Prove?
 ---
-<img src="kahfi.PNG"/>
+<img src="kahfi.png"/>
 
 ---
 - Top most programming Language of 2017 |
@@ -264,7 +270,7 @@ http://bit.ly/swdev-cv |
 ---
 ### Final note?
 
-<img src="learn.PNG" alt="Never stop learning"/>
+<img src="learn.png" alt="Never stop learning"/>
 
 ---
 What is pythonthusiast.com?
