@@ -267,16 +267,13 @@ http://bit.ly/swdev-cv |
 ### POPULAR WEBSITE BUILT WITH PYTHON
 
 <img src="instagram.png" />
-
 ---
 
 <img src="pinterest.png" />
-
 ---
 
 
 <img src="quora.png" />
-
 ---
 ### UPWORK EARNING HISTORY
 
