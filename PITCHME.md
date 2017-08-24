@@ -1,5 +1,5 @@
 ###### COMMITMENT OF THE NEW EMERGING FREELANCERS
-###### STAY AT HOME.PULL THOUSANDS OF DOLLARS.GET A LIFE 
+###### STAY AT HOME | PULL DOLLARS | GET A LIFE 
 
 <img src="pythonthusiast.png" alt="Pythonthusiast"/>
 
