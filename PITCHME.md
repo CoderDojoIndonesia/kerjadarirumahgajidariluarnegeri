@@ -50,6 +50,7 @@ Can you spot what is so interesting from the pic above?
 - Ads Publisher|
 
 ---
+
 <img src="tl.jpg" />
 
 ---
@@ -62,7 +63,7 @@ Strategi memulai perjalanan sebagai freelamcer akan berbeda: persiapan, eksekusi
 
 ---
 ### WHAT ARE THE BENEFITS?
-- More time with family (probably not so good for lonely man)|
+More time with family (probably not so good for lonely man)|
 <img src="capkids.png" />
 
 ---
@@ -71,7 +72,7 @@ Strategi memulai perjalanan sebagai freelamcer akan berbeda: persiapan, eksekusi
 - Paid in USD.. so, $1500/month(*) is just under minimum |
 
 ---
-- Work everywhere!
+Work everywhere!
 <img src="mac.png" />
 
 ---
