@@ -3,6 +3,7 @@
 <img src="pythonthusiast.png" alt="Pythonthusiast"/>
 
 UNIVERSITY CENTER
+
 GADJAH MADA UNIVERSITY
 
 Eko S. Wibowo
