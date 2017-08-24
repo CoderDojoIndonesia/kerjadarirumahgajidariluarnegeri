@@ -17,7 +17,7 @@ http://pythonthusiast.com
 
 <span style="color:gray">Stephen R. Covey - Seven Habits of Highly Effective People</span>
 
----### IT'S ALL ABOUT YOUR PASSION
+### IT'S ALL ABOUT YOUR PASSION
 - Different people, different passion |
 - Identify your passion, and reach it out to it |
 - E.g: Guru/dosen, PNS, Tentara, Dokter, etc. |
