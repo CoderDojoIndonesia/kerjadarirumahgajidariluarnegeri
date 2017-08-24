@@ -73,10 +73,11 @@ More time with family (probably not so good for lonely man)
 - Paid in USD.. so, $1500/month(*) is just under minimum |
 
 ---
-Work everywhere!
+Work everywhere: I mean, anywhere!
 <img src="mac.png" />
 
 ---
+Or at home: built your own .. BatCave!
 <img src="hasil.png" />
 
 ---
