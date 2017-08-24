@@ -87,9 +87,8 @@ You can become .. SuperDad!
 
 ---
 ### CHALLENGE TO START FREELANCING JOB I
-- Remember what Loki said about freedom |
-<img src="loki.png" /> |
-- Do you agree with Loki? Seriously? |
+ <img src="loki.png" />
+- Freedom can be dangerous, yes. But do you agree with Loki? | 
 
 ---
 ### CHALLENGE TO START FREELANCING JOB II
