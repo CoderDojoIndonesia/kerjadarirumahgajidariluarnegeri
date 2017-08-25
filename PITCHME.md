@@ -111,7 +111,8 @@ Cosplayer? Yeaah, maybe.. :D
 
 ---
 Or, just stupid things! 
-<img src="handstand.png" width="50%" height="50%" />
+
+<img src="handstand.png" width="30%" height="30%" />
 
 ---
 ### WHAT ARE THE DISADVANTAGES?
