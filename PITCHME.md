@@ -127,7 +127,7 @@ You can become .. SuperDad!
 - Bagi waktu kerja / belajar dalam chunk 2 jam, dan selingi dengan beragam aktivitas kehidupanmu |
 
 ---
-### CHALLENGE TO START FREELANCING JOB III
+### CHALLENGE TO START FREELANCING JOB III: English communication skills
 - Reading, writing and speaking in English |
 - Tips: nonton film Bahasa Inggris: tanpa subtitle atau dengan subtitle Bahasa Inggris |
 
