@@ -268,6 +268,25 @@ http://bit.ly/swdev-cv
 - Skyshi - Rizqinofa Putra - Former Drupal freelancer |
 
 ---
+### BUILDING REMOTE TEAM
+- No office + electricity + connection cost |
+- Pick and validate candidate for remote work |
+- Probate for 1 month of work |
+- Make sure to delegate job that you completely understand |
+---
+
+- Use timetracker, and stressed the importance of committing to the minimal hours of work |
+- Use slack, make each staff report when logging in and logging out |
+- Every team member must always be able to be reach easily |
+- When reporting back to client, make sure to double check team progress first |
+- Keep at least two members for one job |
+
+---
+
+- Paid in good enough rate, and keep them motivated by creating timely salary raise |
+- Motivate them to work directly to client |
+
+---
 
 ### WHY PYTHON?
 
