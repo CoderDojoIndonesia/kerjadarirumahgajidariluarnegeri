@@ -8,6 +8,11 @@
 ###### Eko S. Wibowo | 081-2222-1975
 http://pythonthusiast.com
 ---
+### Dr. Stephen R. Covey
+
+<img src="covey.png" />
+
+---
 ### QUOTE UTAMA
 *"Berapa banyak orang yang di ranjang kematiannya, mengharap untuk segera kembali ke kantor?"*
 
