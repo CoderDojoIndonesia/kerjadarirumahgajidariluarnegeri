@@ -23,17 +23,21 @@ http://pythonthusiast.com
 ### IT'S ALL ABOUT YOUR PASSION
 - Different people, different passion |
 - Identify your passion, and reach out to it |
-- E.g: Guru/dosen, PNS, Tentara, Dokter, etc. |
+- Conventional passion: Guru/dosen, PNS, Tentara, Dokter, etc. |
+- Millenial passion: Build the next killer startup |
 - Mine? |
 
 ---
+Rabu, 8 Maret 2017 - 4.45pm - GSP UGM
 <img src="passion.png" alt="Passion"/>
 
 ---
-<img src="kahfi-school.png" alt="Passion"/>
+Jum'at, 7 Juli 2017 - 12.50pm - CGV Blitz, J-Walk
+<img src="movie.png" alt="Passion"/>
 
 ---
-<img src="movie.png" alt="Passion"/>
+Senin, 17 Juli 2017 - 6.20am - Rumah
+<img src="kahfi-school.png" alt="Passion"/>
 
 ---
 Can you spot what is so interesting from the pic above?
