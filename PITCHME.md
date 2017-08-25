@@ -14,11 +14,10 @@ http://pythonthusiast.com
 
 ---
 ### QUOTE UTAMA
+<span style="color:gray">Stephen R. Covey - Seven Habits of Highly Effective People</span>
+
 - *"Berapa banyak orang yang di ranjang kematiannya, mengharap untuk segera kembali ke kantor?"* |
 - *"Don't put your ladder against the wrong wall"* |
-
-
-<span style="color:gray">Stephen R. Covey - Seven Habits of Highly Effective People</span>
 
 ---
 ### IT'S ALL ABOUT YOUR PASSION
