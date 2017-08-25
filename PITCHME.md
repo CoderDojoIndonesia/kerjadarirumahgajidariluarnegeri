@@ -3,9 +3,9 @@
 
 <img src="pythonthusiast.png" alt="Pythonthusiast"/>
 
-###### UNIVERSITY CENTER
-###### GADJAH MADA UNIVERSITY
-###### Eko S. Wibowo | 08122221975
+###### ESPAY.ID
+###### OAK CAFE - YOGYAKARTA
+###### Eko S. Wibowo | 081-2222-1975
 http://pythonthusiast.com
 ---
 ### QUOTE UTAMA
@@ -333,8 +333,9 @@ What is pythonthusiast.com?
 - Keep up! |
 
 ---
-Presented in Yogyakarta, 24 Agustus 2017
+Presented in Yogyakarta, 25 Agustus 2017
 
-Eko S. Wibowo
-
-UNIVERSITY CENTER - GADJAH MADA UNIVERSITY
+###### ESPAY.ID
+###### OAK CAFE - YOGYAKARTA
+###### Eko S. Wibowo | 081-2222-1975
+http://pythonthusiast.com
