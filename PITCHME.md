@@ -346,7 +346,6 @@ What is pythonthusiast.com?
 ---
 
 - Ping me for Questions regarding remote work. |
-- 08122221975 |
 - I'll be more than happy to help. |
 - That's my passion! |
 - Keep up! |
