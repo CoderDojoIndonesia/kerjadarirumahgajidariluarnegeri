@@ -118,7 +118,7 @@ You can become .. SuperDad!
 ---
 ### CHALLENGE TO START FREELANCING JOB I: Freedom
 - Hear what Loki said about freedom |
-![Loki speech about Freedom](https://www.youtube.com/watch?v=_3CZExnn8MI)
+![Loki speech about Freedom](https://www.youtube.com/embed/_3CZExnn8MI)
 - Do you agree with Loki? | 
 
 ---
