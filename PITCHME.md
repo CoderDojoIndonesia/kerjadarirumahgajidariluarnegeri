@@ -79,13 +79,13 @@ More time with family
 Probably not so good for Jombloman
 
 ---
-- No traffic headache 
+No traffic headache 
 
 <img src="map.png" />
 
 ---
-- No office politics
-- Paid in USD.. so, $1500/month(*) is just under minimum 
+- No office politics |
+- Paid in USD.. so, $1500/month(*) is just under minimum | 
 
 ---
 Work everywhere: I mean, anywhere!
@@ -96,21 +96,22 @@ Or at home: built your own .. BatCave!
 <img src="hasil.png" />
 
 ---
-
 - You can fire your boss(es) |
 - If there are lots of time zone gaps, you’ll be blessed with so much freedom (Tidur siang anyone?) |
 - Suasana hidup? Pensiunan |
 
 ---
 ### Pursue life. Get a life! 
-
+Belajar bertukang
 <img src="tukang.png" />
 
 ---
+Cosplayer? Yeaah, maybe.. :D
 <img src="saito.png" />
 
 ---
-<img src="handstand.png" />
+Or, just stupid things! 
+<img src="handstand.png" width="50%" height="50%" />
 
 ---
 ### WHAT ARE THE DISADVANTAGES?
