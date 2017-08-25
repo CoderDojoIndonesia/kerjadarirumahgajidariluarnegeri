@@ -117,8 +117,8 @@ You can become .. SuperDad!
 
 ---
 ### CHALLENGE TO START FREELANCING JOB I: Freedom
-<img src="loki.png" />
-- But do you agree with Loki? | 
+![Loki speech about Freedom](https://youtu.be/_3CZExnn8MI)
+- Do you agree with Loki? | 
 
 ---
 ### CHALLENGE TO START FREELANCING JOB II: Time management
