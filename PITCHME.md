@@ -142,6 +142,7 @@ You can become .. SuperDad!
 ### CHALLENGE TO START FREELANCING JOB II: Time management
 - How to work 8 hour / day from home? |
 - Bagi waktu kerja / belajar dalam chunk 2 jam, dan selingi dengan beragam aktivitas kehidupanmu |
+- It need years of practice, so don't give up! |
 
 ---
 ### CHALLENGE TO START FREELANCING JOB III: English communication skills
@@ -180,7 +181,7 @@ Hear, hear, hear y'all!
 ---
 ### BEFORE GOING ANY FURTHER
 Cara mendapatkan dollar dari luar negeri itu _terlalu_ banyak caranya.
-Workshop kali ini memfokuskan target pada: "BAGAIMANA PERUSAHAAN LUAR NEGERI MAU MEMPERCAYAI ANDA PADA PEKERJAAN-PEKERJAAN YANG DISEDIAKANNYA"
+Freelancer challenge: "BAGAIMANA PERUSAHAAN LUAR NEGERI MAU MEMPERCAYAI ANDA PADA PEKERJAAN-PEKERJAAN YANG DISEDIAKANNYA"
 
 ---
 ### OKAY, HOW DO I START REMOTE WORK?
@@ -215,10 +216,6 @@ Be wise with what you share in your social media account
 - For programmer, commit your code in Github. For designer, show case your design in dribble.com, deviantart.com, etc. |
 
 ---
-### Apa bedanya pencitraan dengan pamer?
-- Luruskan niat: self branding |
-- Pada akhirnya: biarkan orang lain berbicara |
----
 
 ### PERFECT USE OF SOCIAL MEDIA!
 <img src="rosid.png" width="50%" height="50%"/>
@@ -229,6 +226,11 @@ Check that posts:
 - Memotivasi audience! |
 - No hate speech, politics: means, audience luas sekali. |
 - Hats off!!! |
+
+---
+### Apa bedanya pencitraan dengan pamer?
+- Luruskan niat: self branding |
+- Pada akhirnya: biarkan orang lain berbicara |
 
 ---
 ### NOTABLE WORK HISTORY
