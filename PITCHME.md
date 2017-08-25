@@ -5,7 +5,7 @@
 
 ###### UNIVERSITY CENTER
 ###### GADJAH MADA UNIVERSITY
-###### Eko S. Wibowo
+###### Eko S. Wibowo | 08122221975
 http://pythonthusiast.com
 ---
 ### QUOTE UTAMA
@@ -330,7 +330,7 @@ What is pythonthusiast.com?
 - 08122221975 |
 - I'll be more than happy to help. |
 - That's my passion! |
-- Keep up! !
+- Keep up! |
 
 ---
 Presented in Yogyakarta, 24 Agustus 2017
