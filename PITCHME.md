@@ -58,7 +58,8 @@ Can you spot what is so interesting from those pics?
 
 ---
 
-<img src="tl.jpg" />
+<img src="IMG_20170825_184441.jpg" />
+
 
 ---
 ### BACKGROUND CHECK: DIFFERENT STRATEGY
