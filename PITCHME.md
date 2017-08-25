@@ -40,7 +40,7 @@ Senin, 17 Juli 2017 - 6.20am - Rumah
 <img src="kahfi-school.png" alt="Passion"/>
 
 ---
-Can you spot what is so interesting from the pic above?
+Can you spot what is so interesting from those pics?
 - The date |
 - The hour |
 - It's working hour! |
@@ -54,7 +54,7 @@ Can you spot what is so interesting from the pic above?
 ---
 ### Extra Levels
 - Build a team, delegate to your staffs. Startup. |
-- Ads Publisher|
+- Ads Publisher. Can also be startup. |
 
 ---
 
@@ -70,14 +70,22 @@ Strategi memulai perjalanan sebagai freelamcer akan berbeda: persiapan, eksekusi
 
 ---
 ### WHAT ARE THE BENEFITS?
-More time with family (probably not so good for lonely man)
+
+---
+More time with family
 
 <img src="capkids.png" />
 
+Probably not so good for Jombloman
+
 ---
-- No traffic headache |
-- No office politics |
-- Paid in USD.. so, $1500/month(*) is just under minimum |
+- No traffic headache 
+
+<img src="map.png" />
+
+---
+- No office politics
+- Paid in USD.. so, $1500/month(*) is just under minimum 
 
 ---
 Work everywhere: I mean, anywhere!
