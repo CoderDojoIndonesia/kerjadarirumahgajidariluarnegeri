@@ -252,18 +252,23 @@ First Client
 <img src="1st.png"/>
 
 ---
----
-- Box.com (Australia) - iOS |
-- Sam Rowe (Australia) - C# |
-- MeetingBurner (US) - Java |
----
-- Pythonblogs (US) - Python |
-- ForexSecure.net - Python |
-- MonetizeMore.com - Python |
-- Full list ? |
----
+
+Box.com (Australia) - iOS | Sam Rowe (Australia) - C# | MeetingBurner (US) - Java |
+ 
+Pythonblogs (US) - Python | ForexSecure.net - Python | MonetizeMore.com - Python |
+ 
+Full list ? 
+
 http://bit.ly/swdev-cv
+
 ---
+### Startup started as Freelancer
+
+- http://krafthaus.co.id/ - Arief Widyananda - Former Gameloft |
+- https://skyshi.com/ - Rizqinofa Putra - Former Drupal freelancer |
+
+---
+
 ### WHY PYTHON?
 
 - Easy to understand!
@@ -275,11 +280,6 @@ http://bit.ly/swdev-cv
 - Top most programming Language of 2017 |
 - Readily available in all platform: desktop, mobile or web |
 - Industry standard: due to its cross platform nature, you can find API access example using Python: Google, Facebook, Amazon, etc. |
-- Open source, so you can find no company will be controlling the fate of your platform: Java anyone? |
-
----
-### THE KEY TO PYTHON IS .. IT's PACKAGES
-
 - Desktop: PyQt, WxPython, Kivy |
 - Web: Django, Flask, Pylons/Pyramid |
 - Mobile: Kivy, PyGame Subset for Android (ps4a) |
@@ -294,7 +294,6 @@ http://bit.ly/swdev-cv
 
 <img src="pinterest.png" />
 ---
-
 
 <img src="quora.png" />
 ---
