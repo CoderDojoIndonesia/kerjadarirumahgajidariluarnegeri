@@ -264,8 +264,8 @@ http://bit.ly/swdev-cv
 ---
 ### Startup started as Freelancer
 
-- http://krafthaus.co.id/ - Arief Widyananda - Former Gameloft |
-- https://skyshi.com/ - Rizqinofa Putra - Former Drupal freelancer |
+- Krafthaus - Arief Widyananda - Former Gameloft |
+- Skyshi - Rizqinofa Putra - Former Drupal freelancer |
 
 ---
 
