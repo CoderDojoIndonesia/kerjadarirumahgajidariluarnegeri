@@ -8,7 +8,7 @@
 ###### Eko S. Wibowo | 081-2222-1975
 http://pythonthusiast.com
 ---
-### Dr. Stephen R. Covey
+### Stephen R. Covey
 
 <img src="covey.png" />
 
