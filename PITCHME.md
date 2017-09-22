@@ -8,7 +8,9 @@
 ###### Eko S. Wibowo | 081-2222-1975
 http://pythonthusiast.com
 ---
-### SEBELUM COVER LETTER: PASTIKAN PERSONAL BRANDING ANDA SUDAH SEMPURNA
+### SEBELUM COVER LETTER
+---
+### PASTIKAN PERSONAL BRANDING ANDA SUDAH SEMPURNA
 - Jika tidak maka cover letter akan sia-sia |
 - Studi kasus personal branding |
 - Memulai personal branding |
