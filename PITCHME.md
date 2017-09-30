@@ -76,7 +76,7 @@ Perhatikan gambar dibawah ini
 ### 7 Habits: Sharpen The Saw - Asahlah Gergaji
 
 
--- 
+--- 
 ### FOKUS WORKSHOP INI? KEMENANGAN PRIBADI
 - "Cara merubah diri sendiri untuk mencapai independensi/kemerdekaan pribadi" 
 
@@ -90,7 +90,7 @@ Perhatikan gambar dibawah ini
 ### Habit 2: Begin with End In Mind
 - Tindakan apapun, harusnya berdasarkan pada tujuan akhir yang ingin dicapai |
 - Masalahnya adalah, kita sering tidak paham mengapa kita melakukan sesuatu |
-- Maka pahami hal berikut:
+- Maka pahami hal berikut: |
 ---
 - "Kebahagiaan hanya terjadi, jika seseorang memenuhi misi pada semua peran yang diembannya" |
 - Manusia adalah makhluk yang memiliki Peran yang Berbeda-beda |
@@ -106,7 +106,7 @@ Perhatikan gambar dibawah ini
 ### Habit 3: First Things First
 <img src="ftf.png" />
 
---
+---
 - Pahami bahwa yang utama adalah Kuadran IV, tapi kita sering terjebak di Kuadran I, karena Kuadran III 
 
 ---
