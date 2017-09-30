@@ -1,5 +1,5 @@
-###### Mencapai Keseimbangan Hidup dengan Remote Work
-###### dan Penerapan "7 Habits of Highly Effective People"
+###### Keseimbangan Hidup dengan Remote Work
+###### Penerapan "7 Habits of Highly Effective People"
 ###### STAY AT HOME | PULL DOLLARS | GET A LIFE 
 
 <img src="pythonthusiast.png" alt="Pythonthusiast"/>
@@ -16,8 +16,8 @@ http://pythonthusiast.com
 ### QUOTE UTAMA
 <span style="color:gray">Stephen R. Covey - Seven Habits of Highly Effective People</span>
 
-- *"Berapa banyak orang yang di ranjang kematiannya, mengharap untuk segera kembali ke kantor?"* |
-- *"Don't put your ladder against the wrong wall"* |
+- "Berapa banyak orang yang di ranjang kematiannya, mengharap untuk segera kembali ke kantor?"* |
+- "Don't put your ladder against the wrong wall"* |
 
 ---
 ### IT'S ALL ABOUT YOUR PASSION
