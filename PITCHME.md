@@ -1,5 +1,5 @@
-###### Keseimbangan Hidup dengan Remote Work
-###### Penerapan "7 Habits of Highly Effective People"
+Mencapai Keseimbangan Hidup dengan Remote Work
+dan Penerapan "7 Habits of Highly Effective People"
 ###### STAY AT HOME | PULL DOLLARS | GET A LIFE 
 
 <img src="pythonthusiast.png" alt="Pythonthusiast"/>
