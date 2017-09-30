@@ -20,9 +20,26 @@ Stephen R. Covey - Seven Habits of Highly Effective People
 
 ---
 ### APA ITU 7 HABITS OF HIGHLY EFFECTIVE PEOPLE?
-- 7 habits adalah cara menjalani kehidupan yang berbasis pada prinsip-prinsip orang-orang yang efektif dalam menjalankan kehidupannya|
+- Cara menjalani kehidupan yang berbasis pada prinsip-prinsip orang-orang yang sangat efektif |
 - Pertama kali dipublikasikan oleh Dr Stephen R. Covey pada tahun 1989 |
+
+---
 - "Salah satu buku paling menginspirasi dan berpengaruh yang pernah ditulis. Telah memikat para pembacanya selama 25 tahun. Buku ini mengubah kehidupan para presiden direktur dan CEO, tokoh pendidik dan orangtua --singkatnya, jutaan orang dari segala usia dan pekerjaan" |
+- Kevin Turner (COO Microsoft Corp.), Mitt Romney (Gubernur Massachusets), Ariana Huffington (Presiden Direktur Huffington Post), Arwin Rasyid (Presiden Direktur CIMB Niaga), Dara Tores (Peraih Medali Emas Olimpiade), Mohammad Yunus (Peraih Hadiah Nobel Perdamaian 2006) |
+
+---
+### APA SAJA 7 HABITS ITU?
+Ketujuh habits / kebiasaan ini terbagi kedalam tiga kategori utama:
+- Kemenangan Pribadi |
+- Kemenangan Publik |
+- "Sharpen The Saw" |
+
+---
+### SEBELUM LEBIH JAUH TENTANG 7 HABITS
+Perhatikan gambar dibawah ini
+
+<img src="combinedwoman.gif" />
+
 
 ---
 ### IT'S ALL ABOUT YOUR PASSION
