@@ -58,6 +58,9 @@ Perhatikan gambar dibawah ini
 - Untuk mencapai kebahagiaan |
 
 ---
+<img src="7habits.gif"/>
+
+---
 ### 7 Habits: Kemenangan Pribadi
 - Be Proactive - Jadilah Proaktif |
 - Begin with End in Mind - Mulailah Dengan Tujuan Akhir|
@@ -71,7 +74,7 @@ Perhatikan gambar dibawah ini
 
 ---
 ### 7 Habits: Sharpen The Saw - Asalah Gergaji
-<img src="7habits.gif"/>
+
 
 -- 
 ### FOKUS WORKSHOP INI? KEMENANGAN PRIBADI
