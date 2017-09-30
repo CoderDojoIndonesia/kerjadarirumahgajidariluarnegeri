@@ -40,6 +40,42 @@ Perhatikan gambar dibawah ini
 
 <img src="combinedwoman.gif" />
 
+--- 
+### APAKAH GAMBAR TERSEBUT
+- Seorang wanita, masih muda, classy yang sedang menoleh ke arah kanan ? |
+- Ataukah dia seorang wanita tua berhidung besar ? |
+
+---
+### ITULAH YANG DISEBUT DENGAN PERUBAHAN PARADIGMA
+- Dunia ini tidak apa adanya |
+- Dunia ini adalah cara pandang: bagaimana Anda memandang dunia, maka begitulah dunia itu |
+- Contoh: jika disini ada 7 orang, maka akan ada 7 cara pandang terhadap dunia |
+
+---
+### 7 HABITS OF HIGHLY EFFECTIVE PEOPLE ADALAH KONSEP YANG AKAN MERUBAH BANYAK PARADIGMA ANDA DALAM MEMANDANG DUNIA
+- "Oh iya ya" experience |
+- Namun, buat apa Anda merubah cara pandang? |
+- Untuk mencapai kebahagiaan |
+
+---
+### 7 Habits: Kemenangan Pribadi
+- Be Proactive - Jadilah Proaktif |
+- Begin with End in Mind - Mulailah Dengan Tujuan Akhir|
+- First Things First - Dahulukan Yang Utama|
+
+---
+### 7 Habits: Kemenangan Publik
+- Think Win-Win - Berpikir Menang-Menang|
+- Seek First to Understand, Then to Be Understood - Berusaha Mengerti Lebih Dahulu, Baru Dimengerti|
+- Synergize - Wujudkan Sinergi|
+
+---
+### 7 Habits: Sharpen The Saw - Asalah Gergaji
+<img src="7habits.gif"/>
+
+-- 
+### FOKUS WORKSHOP INI? KEMENANGAN PRIBADI
+ 
 
 ---
 ### IT'S ALL ABOUT YOUR PASSION
