@@ -1,10 +1,10 @@
-###### COMMITMENT OF THE NEW EMERGING FREELANCERS
+###### Mencapai Keseimbangan Hidup dengan Remote Work
+###### dan Penerapan "7 Habits of Highly Effective People"
 ###### STAY AT HOME | PULL DOLLARS | GET A LIFE 
 
 <img src="pythonthusiast.png" alt="Pythonthusiast"/>
 
-###### ESPAY.ID
-###### OAK CAFE - YOGYAKARTA
+###### CoderDojo Indonesia
 ###### Eko S. Wibowo | 081-2222-1975
 http://pythonthusiast.com
 ---
