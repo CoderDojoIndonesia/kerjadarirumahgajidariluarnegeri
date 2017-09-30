@@ -73,12 +73,12 @@ Perhatikan gambar dibawah ini
 - Synergize - Wujudkan Sinergi|
 
 ---
-### 7 Habits: Sharpen The Saw - Asalah Gergaji
+### 7 Habits: Sharpen The Saw - Asahlah Gergaji
 
 
 -- 
 ### FOKUS WORKSHOP INI? KEMENANGAN PRIBADI
- 
+- "Cara merubah diri sendiri untuk mencapai independensi/kemerdekaan pribadi" 
 
 ---
 ### IT'S ALL ABOUT YOUR PASSION
