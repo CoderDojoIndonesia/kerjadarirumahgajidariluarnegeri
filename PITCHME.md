@@ -22,7 +22,7 @@ Stephen R. Covey - Seven Habits of Highly Effective People
 ### APA ITU 7 HABITS OF HIGHLY EFFECTIVE PEOPLE?
 - 7 habits adalah cara menjalani kehidupan yang berbasis pada prinsip-prinsip orang-orang yang efektif dalam menjalankan kehidupannya|
 - Pertama kali dipublikasikan oleh Dr Stephen R. Covey pada tahun 1989 |
-- "Salah satu buku paling menginspirasi dan berpengaruh yang pernah ditulis. Telah memikat para pembacanya selama 25 tahun. Buku ini mengubah kehidupan para presiden direktur dan CEO, tokoh pendidik dan orangtua --singkatnya, jutaan orang dari segala usia dan pekerjaan"
+- "Salah satu buku paling menginspirasi dan berpengaruh yang pernah ditulis. Telah memikat para pembacanya selama 25 tahun. Buku ini mengubah kehidupan para presiden direktur dan CEO, tokoh pendidik dan orangtua --singkatnya, jutaan orang dari segala usia dan pekerjaan" |
 
 ---
 ### IT'S ALL ABOUT YOUR PASSION
