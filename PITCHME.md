@@ -21,6 +21,7 @@ http://pythonthusiast.com
 - Catatan penting: Jangan pernah sekedar menulis cover letter dan mengirim membabi buta |
 - Ingat, seratus kera mengetik keyboard, tidak akan pernah menghasilkan symphoni Four Season dari Vivaldi |
 - Kirimkan Cover Letter, jika dan hanya jika Anda memahami apa yang Anda lakukan |
+---
 - Saat mengirimkan cover letter, Anda akan berhadap-hadapan dengan setidak-tidaknya 4 situasi |
 - Which are? Let's find out |
 ---
