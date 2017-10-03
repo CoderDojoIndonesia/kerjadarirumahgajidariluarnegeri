@@ -25,4 +25,8 @@ http://pythonthusiast.com
 - Saat mengirimkan cover letter, Anda akan berhadap-hadapan dengan setidak-tidaknya 4 situasi |
 - Which are? Let's find out |
 ---
-### 
+### SITUASI 1: TANPA TRACK RECORD DI UPWORK, TANPA PORTOFOLIO
+- Tipikal Newbie, tapi bisa diakali |
+- Which is ? |
+- Pahami job description klien, dan coba pecahkan |
+- Kirimkan cover letter yang menyisakan misteri keterpecahannya, dalam derajat sekitar 90% selesai |
