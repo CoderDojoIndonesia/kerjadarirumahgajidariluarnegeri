@@ -1,4 +1,4 @@
-Menguasai PyQt Untuk Self-Branding Remote Work Job
+Menguasai PyQt Untuk Self-Branding Remote Work Internasional
 ###### STAY AT HOME | PULL DOLLARS | GET A LIFE
 
 <img src="pythonthusiast.png" alt="Pythonthusiast"/>
@@ -8,7 +8,7 @@ http://pythonthusiast.com
 ---
 ### Stephen R. Covey
 
-<img src="covey.png" />
+![Logo](covey.png)
 
 ---
 ### QUOTE UTAMA
