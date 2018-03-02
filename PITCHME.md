@@ -1,10 +1,9 @@
-Mencapai Keseimbangan Hidup dengan Remote Work
-dan Penerapan "7 Habits of Highly Effective People"
-###### STAY AT HOME | PULL DOLLARS | GET A LIFE 
+Menguasai PyQt Untuk Self-Branding Remote Work Job
+###### STAY AT HOME | PULL DOLLARS | GET A LIFE
 
 <img src="pythonthusiast.png" alt="Pythonthusiast"/>
 
-###### CoderDojo Indonesia
+###### Pythonthusiast Remote Work Mentoring
 http://pythonthusiast.com
 ---
 ### Stephen R. Covey
