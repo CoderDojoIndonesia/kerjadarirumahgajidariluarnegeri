@@ -8,7 +8,7 @@ http://pythonthusiast.com
 ---
 ### Stephen R. Covey
 
-![Logo](covey.png)
+<img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/covey.png"/>
 
 ---
 ### Seven Habits of Highly Effective People
@@ -18,7 +18,7 @@ http://pythonthusiast.com
 
 ---
 ### What is it actually?
-![Logo](7habits.gif)
+<img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/7habits.gif"/>
 Ada 7 prinsip, namun menurut saya yang paling utama adalah salah satu konsep prinsip *First Things First*
 
 ---
@@ -29,47 +29,8 @@ Ada 7 prinsip, namun menurut saya yang paling utama adalah salah satu konsep pri
 
 ---
 ### Mengapa Anda mendatangi meetup Python ini?
-Abraham Maslow' Hierarchy of Needs|
-![Logo](7habits.gif)|
-
---- 
-### FOKUS WORKSHOP INI? KEMENANGAN PRIBADI
-- "Cara merubah diri sendiri untuk mencapai independensi/kemerdekaan pribadi" 
-
----
-### Habit 1: Proactive
-- Bedakan dengan "Melakukan segala sesuatu dengan inisiatif pribadi" |
-- Lebih dari itu, Proactive adalah lawan dari Reactive |
-- Jeda antara rangsangan - respon, adalah saat dimana prinsip-prinsip hidup mengambil kendali |
-- Proactive adalah kondisi dimana Anda menanggapi respon dengan prinsip-prinsip hidup yang kokoh, dan bukan sekedar ditentukan oleh nilai-nilai sosial |
----
-### Habit 2: Begin with End In Mind
-- Tindakan apapun, harusnya berdasarkan pada tujuan akhir yang ingin dicapai |
-- Masalahnya adalah, kita sering tidak paham mengapa kita melakukan sesuatu |
-- Maka pahami hal berikut: |
----
-- "Kebahagiaan hanya terjadi, jika seseorang memenuhi misi pada semua peran yang diembannya" |
-- Manusia adalah makhluk yang memiliki Peran yang Berbeda-beda |
-- Mendefinisikan MISSION STATEMENT, pada masing-masin ROLE yang berusaha dicapai dengan eksekusi GOAL yang tertata|
----
-- Contoh ROLE: Saya adalah seorang Hamba Tuhan, Ayah, Suami, Pekerja Remote, Capoeirista dan Mentor"
-- Untuk ROLE "Hamba Tuhan"
-- Definisikan MISSION STATEMENT: "Mencapai Keridhloan Pencipta"
-- Definisikan GOAL: "Tidak Putus Sholat Jama'ah"
----
-- Lakukan itu pada setiap Role, maka dalam setiap tindakan Anda akan menyadari tujuan akhirnya |
----
-### Habit 3: First Things First
-<img src="ftf.png" />
-
----
-- Pahami bahwa yang utama adalah Kuadran IV, tapi kita sering terjebak di Kuadran I, karena Kuadran III 
-
----
-### Habit 7: Sharpen The Saw
-- "Kisah tukang gergaji yang sibuk menggergaji"
----
-<img src="sharpen.jpg" />
+- Abraham Maslow' Hierarchy of Needs|
+- <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/maslow.png"/>|
 
 ---
 ### IT'S ALL ABOUT YOUR PASSION
