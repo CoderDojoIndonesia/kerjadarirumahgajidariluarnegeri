@@ -139,8 +139,10 @@ http://pythonthusiast.com
 ### Really? That's it? Where is the Qt stuff?
 ### It's in the title right? Whaddehel it got to do with this remote work mambo jambo?
 - Anda cerdas! |
-- Silahkan ke alamat ini : http://bit.ly/pythonthusiast-qt |
+- Silahkan ke alamat ini http://bit.ly/pythonthusiast-qt |
 - 5 artikel disana, akhirnya membuat saya mendapatkan job remote ke UK dengan bayaran total USD 4620 |
+
+---
 - Yaitu IDR 62juta (1USD=13ribu) dalam rentang waktu 277jam atau 7minggu (Belum genap 2 bulan) |
 ---
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/pyqt-earning.png"/>
