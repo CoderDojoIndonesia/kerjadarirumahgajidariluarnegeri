@@ -17,11 +17,10 @@ http://pythonthusiast.com
 - "Don't put your ladder against the wrong wall" |
 
 ---
-### What is it actually?
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/7habits.gif"/>
-Ada 7 prinsip, namun menurut saya yang paling utama adalah salah satu konsep prinsip *First Things First*
 
 ---
+- Ada 7 prinsip, namun menurut saya yang paling utama adalah salah satu konsep mendasar dari prinsip *First Things First*:|
 - Manusia terdiri dari berbagai peran-peran (role),|
 - dimana tiap peran memiliki tujuan (goal), |
 - dimana kebahagiaan hanya tercapai jika tujuan dari peran tersebut terpenuhi, |
@@ -29,11 +28,13 @@ Ada 7 prinsip, namun menurut saya yang paling utama adalah salah satu konsep pri
 
 ---
 ### Mengapa Anda mendatangi meetup Python ini?
-- Abraham Maslow' Hierarchy of Needs|
-- <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/maslow.png"/>|
+<img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/maslow.png"/>
 
 ---
-### IT'S ALL ABOUT YOUR PASSION
+- Abraham Maslow' Hierarchy of Needs |
+- Intinya manusia melakukan segala sesuatu untuk mendapatkan kebahagiaan |
+
+### Lebih dari Kebutuhan, jika Anda masih mampu, kejarlah passion!
 - Different people, different passion |
 - Identify your passion, and reach out to it |
 - Conventional passion: Guru/dosen, PNS, Tentara, Dokter, etc. |
