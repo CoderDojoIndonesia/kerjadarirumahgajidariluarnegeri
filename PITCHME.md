@@ -11,69 +11,26 @@ http://pythonthusiast.com
 ![Logo](covey.png)
 
 ---
-### QUOTE UTAMA
-Stephen R. Covey - Seven Habits of Highly Effective People
+### Seven Habits of Highly Effective People
 
 - "Berapa banyak orang yang di ranjang kematiannya, mengharap untuk segera kembali ke kantor?" |
 - "Don't put your ladder against the wrong wall" |
 
 ---
-### APA ITU 7 HABITS OF HIGHLY EFFECTIVE PEOPLE?
-- Cara menjalani kehidupan yang berbasis pada prinsip-prinsip orang-orang yang sangat efektif |
-- Pertama kali dipublikasikan oleh Dr Stephen R. Covey pada tahun 1989 |
+### What is it actually?
+![Logo](7habits.gif)
+Ada 7 prinsip, namun menurut saya yang paling utama adalah salah satu konsep prinsip *First Things First*
 
 ---
-- "Salah satu buku paling menginspirasi dan berpengaruh yang pernah ditulis. Telah memikat para pembacanya selama 25 tahun. Buku ini mengubah kehidupan para presiden direktur dan CEO, tokoh pendidik dan orangtua --singkatnya, jutaan orang dari segala usia dan pekerjaan" |
-- Kevin Turner (COO Microsoft Corp.), Mitt Romney (Gubernur Massachusets), Ariana Huffington (Presiden Direktur Huffington Post), Arwin Rasyid (Presiden Direktur CIMB Niaga), Dara Tores (Peraih Medali Emas Olimpiade), Mohammad Yunus (Peraih Hadiah Nobel Perdamaian 2006) |
+- Manusia terdiri dari berbagai peran-peran (role),|
+- dimana tiap peran memiliki tujuan (goal), |
+- dimana kebahagiaan hanya tercapai jika tujuan dari peran tersebut terpenuhi, |
+- yang dicapai dengan menjalankan misi (missions) dari peran-peran tersebut |
 
 ---
-### APA SAJA 7 HABITS ITU?
-Ketujuh habits / kebiasaan ini terbagi kedalam tiga kategori utama:
-- Kemenangan Pribadi |
-- Kemenangan Publik |
-- "Sharpen The Saw" |
-
----
-### SEBELUM LEBIH JAUH TENTANG 7 HABITS
-Perhatikan gambar dibawah ini
-
-<img src="combinedwoman.gif" />
-
---- 
-### APAKAH GAMBAR TERSEBUT
-- Seorang wanita, masih muda, classy yang sedang menoleh ke arah kanan ? |
-- Ataukah dia seorang wanita tua berhidung besar ? |
-
----
-### ITULAH YANG DISEBUT DENGAN PERUBAHAN PARADIGMA
-- Dunia ini tidak apa adanya |
-- Dunia ini adalah cara pandang: bagaimana Anda memandang dunia, maka begitulah dunia itu |
-- Contoh: jika disini ada 7 orang, maka akan ada 7 cara pandang terhadap dunia |
-
----
-### 7 HABITS OF HIGHLY EFFECTIVE PEOPLE ADALAH KONSEP YANG AKAN MERUBAH BANYAK PARADIGMA ANDA DALAM MEMANDANG DUNIA
-- "Oh iya ya" experience |
-- Namun, buat apa Anda merubah cara pandang? |
-- Untuk mencapai kebahagiaan |
-
----
-<img src="7habits.gif"/>
-
----
-### 7 Habits: Kemenangan Pribadi
-- Be Proactive - Jadilah Proaktif |
-- Begin with End in Mind - Mulailah Dengan Tujuan Akhir|
-- First Things First - Dahulukan Yang Utama|
-
----
-### 7 Habits: Kemenangan Publik
-- Think Win-Win - Berpikir Menang-Menang|
-- Seek First to Understand, Then to Be Understood - Berusaha Mengerti Lebih Dahulu, Baru Dimengerti|
-- Synergize - Wujudkan Sinergi|
-
----
-### 7 Habits: Sharpen The Saw - Asahlah Gergaji
-
+### Mengapa Anda mendatangi meetup Python ini?
+Abraham Maslow' Hierarchy of Needs|
+![Logo](7habits.gif)|
 
 --- 
 ### FOKUS WORKSHOP INI? KEMENANGAN PRIBADI
