@@ -20,7 +20,7 @@ http://pythonthusiast.com
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/7habits.gif"/>
 
 ---
-- Ada 7 prinsip, namun menurut saya yang paling utama adalah salah satu konsep mendasar dari prinsip *First Things First*:|
+- Ada 7 prinsip, namun menurut saya yang paling utama adalah salah satu konsep mendasar dari prinsip *First Things First*|
 - Manusia terdiri dari berbagai peran-peran (role),|
 - dimana tiap peran memiliki tujuan (goal), |
 - dimana kebahagiaan hanya tercapai jika tujuan dari peran tersebut terpenuhi, |
@@ -31,7 +31,7 @@ http://pythonthusiast.com
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/maslow.png"/>
 
 ---
-- Abraham Maslow' Hierarchy of Needs |
+- Abraham Maslow's Hierarchy of Needs |
 - Intinya manusia melakukan segala sesuatu untuk mendapatkan kebahagiaan |
 
 ---
@@ -64,7 +64,7 @@ Can you spot what is so interesting from those pics?
 ### It's Remote Work From Home Baby!
 - Work from home, not tied to an office |
 - No traffic headache |
-- Paid in USD, at least USD 1500, which is just Janitor rate actually |-
+- Paid in USD, at least USD 1500, which is just Janitor rate actually |
 - You can fire your bosses |
 - Bosses? Yes, you can work for many jobs at once |
 - The trick? Delegate it! Build team! |
@@ -73,6 +73,7 @@ Can you spot what is so interesting from those pics?
 ### Extra Levels
 - Ads Publisher: AdSense, AdMobs, etc |
 - Crazy passive income, at lower stress level! |
+- But, beware of ads publisher mortal sin... |
 ---
 
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/tl.jpg" />
@@ -86,7 +87,7 @@ Hear, hear, hear y'all!
 ---
 ### FONDASI UTAMA MEREBUT JOB REMOTE!
 
-<img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/haloeffect.jpg" />
+<img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/haloeffect.png" />
 ---
 Manfaatkan Halo Effect!:
 - Adalah pengaruh pesona pada satu area yang mempengaruhi penilaian pada area yang lain|
