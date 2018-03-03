@@ -31,7 +31,7 @@ http://pythonthusiast.com
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/maslow.png"/>
 
 ---
-- Abraham Maslow's Hierarchy of Needs |
+- Abraham Maslow's Hierarchy of Needs
 - Intinya manusia melakukan segala sesuatu untuk mendapatkan kebahagiaan |
 
 ---
@@ -116,8 +116,8 @@ http://pythonthusiast.com
 What is pythonthusiast.com?
 - Inspired by CoderDojo.com movement |
 - Remote work mentoring to its fullest! |
-- One time paymnent, lifetime access |
-- Intensive 3 Days Bootcamp with low price investment|
+- One time paymnent, lifetime access (IDR 500.000)|
+- Intensive 3 Days Bootcamp with low price investment (IDR 3.000.000, bisa dibayar 1jt/bulan)|
 - Community of motivated remote worker wannabe |
 
 ---
