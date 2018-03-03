@@ -114,6 +114,8 @@ http://pythonthusiast.com
 
 ---
 What is pythonthusiast.com?
+<img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/joglo.jpg"/>
+---
 - Inspired by CoderDojo.com movement |
 - Remote work mentoring to its fullest! |
 - One time paymnent, lifetime access (IDR 500.000)|
