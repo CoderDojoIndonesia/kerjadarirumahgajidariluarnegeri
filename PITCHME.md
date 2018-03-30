@@ -27,7 +27,7 @@ http://pythonthusiast.com
 - yang dicapai dengan menjalankan misi (missions) dari peran-peran tersebut |
 
 ---
-### Mengapa Anda mendatangi meetup Python ini?
+### Mengapa Anda mendatangi Bootcamp Pythonthusiast ini?
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/maslow.png"/>
 
 ---
@@ -148,8 +148,6 @@ http://pythonthusiast.com
 - Yaitu IDR 62juta (1USD=13ribu) dalam rentang waktu 277jam atau 7minggu (Belum genap 2 bulan) |
 ---
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/pyqt-earning.png"/>
----
-### What's PyQT?
 ---
 That's it all!
 ---
