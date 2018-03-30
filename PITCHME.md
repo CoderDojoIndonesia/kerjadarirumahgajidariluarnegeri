@@ -1,4 +1,4 @@
-Menguasai PyQt Untuk Self-Branding Remote Work Internasional
+Bootcamp Python #1 - Maret 2018
 ###### STAY AT HOME | PULL DOLLARS | GET A LIFE
 
 <img src="pythonthusiast.png" alt="Pythonthusiast"/>
