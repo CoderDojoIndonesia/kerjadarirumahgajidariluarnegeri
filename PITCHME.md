@@ -7,12 +7,12 @@ https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarn
 ###### Pythonthusiast Remote Work Mentoring
 http://pythonthusiast.com
 ---
+Untuk komunikasi live coding, silahkan bergabung terlebih dahulu ke media Slack berikut ini:
+[http://bit.ly/pythonthusiast-slack-amikom](http://bit.ly/pythonthusiast-slack-amikom)
+---
 ### Stephen R. Covey
 
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/covey.png"/>
----
-Untuk komunikasi live coding, silahkan bergabung ke media Slack berikut ini:
-[http://bit.ly/pythonthusiast-slack-amikom](http://bit.ly/pythonthusiast-slack-amikom)
 ---
 ### Seven Habits of Highly Effective People
 
