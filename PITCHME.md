@@ -1,7 +1,7 @@
-Bootcamp Python #1 - Maret 2018
+Seminar Remote Work and Python Programming Evolution - April 2018
 ###### STAY AT HOME | PULL DOLLARS | GET A LIFE
 
-<img src="pythonthusiast.png" alt="Pythonthusiast"/>
+<img src="joglo3.jpg" alt="Pythonthusiast"/>
 
 ###### Pythonthusiast Remote Work Mentoring
 http://pythonthusiast.com
