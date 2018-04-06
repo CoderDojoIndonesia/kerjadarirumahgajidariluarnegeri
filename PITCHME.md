@@ -1,7 +1,7 @@
 Seminar Remote Work and Python Programming Evolution - April 2018
 ###### STAY AT HOME | PULL DOLLARS | GET A LIFE
 
-<img src="joglo3.jpg" alt="Pythonthusiast"/>
+<img src="joglo4.png" alt="Pythonthusiast"/>
 
 ###### Pythonthusiast Remote Work Mentoring
 http://pythonthusiast.com
