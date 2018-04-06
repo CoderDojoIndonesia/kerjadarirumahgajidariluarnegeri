@@ -96,7 +96,8 @@ Hear, hear, hear y'all!
 ---
 Halo Effect!
 ---
-What's that? Mari kita simak referensi intelek dan berbobot berikut ini
+What's that?
+Mari kita simak referensi intelek dan berbobot berikut ini
 ---
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/goku-halo.png" />
 ---
