@@ -99,7 +99,7 @@ Halo Effect!
 What's that?
 Mari kita simak referensi intelek dan berbobot berikut ini
 ---
-<img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/goku-halo.png" />
+<img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/09-amikom-seminar-april-2018/goku-halo.png" />
 ---
 - Diungkapkan pertama kali oleh psikolog Edward Thorndike |
 - Adalah pengaruh pesona pada satu area yang mempengaruhi penilaian pada area yang lain|
