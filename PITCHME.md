@@ -38,11 +38,13 @@ Untuk komunikasi live coding, silahkan bergabung terlebih dahulu ke media Slack 
 - Intinya manusia melakukan segala sesuatu untuk mendapatkan kebahagiaan |
 
 ---
-### Lebih dari Kebutuhan, jika Anda masih mampu, kejarlah passion!
+### Yaitu, Lebih dari sekedar Kebutuhan, jika Anda masih mampu, kejarlah passion!
+- Karena, tidak ada yang lebih mengasyikkan dari dibayar untuk sesuatu yang menjadi kesukaanmu.
 - Different people, different passion |
 - Identify your passion, and reach out to it |
 - Conventional passion: Guru/dosen, PNS, Tentara, Dokter, etc. |
-- Millenial passion: Build the next killer startup |
+---
+- Millenial passion: Build the next killer application/startup |
 - Mine? |
 
 ---
@@ -61,10 +63,10 @@ Senin, 17 Juli 2017 - 6.20am - Rumah
 Can you spot what is so interesting from those pics?
 - The date |
 - The hour |
-- It's working hour! |
+- It's working hour dudes! |
 
 ---
-### It's Remote Work From Home Baby!
+### It's Remote Work From Home!
 - Work from home, not tied to an office |
 - No traffic headache |
 - Paid in USD, at least USD 1500, which is just Janitor rate actually |
@@ -93,6 +95,12 @@ Hear, hear, hear y'all!
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/haloeffect.png" />
 ---
 Halo Effect!
+---
+What's that? Mari kita simak referensi intelek dan berbobot berikut ini
+---
+<img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/goku-halo.png" />
+---
+- Diungkapkan pertama kali oleh psikolog Edward Thorndike |
 - Adalah pengaruh pesona pada satu area yang mempengaruhi penilaian pada area yang lain|
 - Bagaimana membuat employer dari UK/US/Kanada bisa percaya dan tertarik dengan kemampuanmu? |
 - Pencitraan|
