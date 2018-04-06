@@ -30,7 +30,7 @@ Untuk komunikasi live coding, silahkan bergabung terlebih dahulu ke media Slack 
 - yang dicapai dengan menjalankan misi (missions) dari peran-peran tersebut |
 
 ---
-### Mengapa Anda mendatangi Bootcamp Pythonthusiast ini?
+### Mengapa Anda mendatangi Seminar ini?
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/maslow.png"/>
 
 ---
