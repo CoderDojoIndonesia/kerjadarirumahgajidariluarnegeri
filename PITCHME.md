@@ -10,6 +10,9 @@ http://pythonthusiast.com
 Untuk komunikasi live coding, silahkan bergabung terlebih dahulu ke media Slack berikut ini:
 [http://bit.ly/pythonthusiast-slack-amikom](http://bit.ly/pythonthusiast-slack-amikom)
 ---
+Bootcamp Pythonthusiast April 2018: http://bit.ly/coderjogloid-angkatan-2
+Voucher diskon akan dibagi-bagikan pada 10 peserta yang menjawab pertanyaan-pertanyaan pada seminar ini
+---
 ### Stephen R. Covey
 
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/covey.png"/>
@@ -104,6 +107,7 @@ Mari kita simak referensi intelek dan berbobot berikut ini
 - Diungkapkan pertama kali oleh psikolog Edward Thorndike |
 - Adalah pengaruh pesona pada satu area yang mempengaruhi penilaian pada area yang lain|
 - Bagaimana membuat employer dari UK/US/Kanada bisa percaya dan tertarik dengan kemampuanmu? |
+---
 - Pencitraan|
 - Aktif di Sosial media secara positif: share tentang coding tips and tricks, bukan tentang .. Bu Dendy|
 
@@ -114,7 +118,7 @@ Mari kita simak referensi intelek dan berbobot berikut ini
 - Saat mempost tentang proses belajar, gunakan kata-kata yang penuh percaya diri|
 
 ---
-- Daftar ke upwork.com |
+- Daftar ke upwork.com, atau hunt job di remoteok.io |
 - Saat mengirim cover letter untuk job yang kamu rasa cocok, gunakan link ke medium/domain-mu sebagai salah satu portofolio |
 - That's it! |
 
@@ -130,40 +134,26 @@ What is pythonthusiast.com?
 ---
 - Inspired by CoderDojo.com movement |
 - Remote work mentoring to its fullest! |
-- One time paymnent, lifetime access (IDR 500.000)|
-- Intensive 3 Days Bootcamp with low price investment (IDR 3.000.000, bisa dibayar 1jt/bulan)|
+- One time paymnent, lifetime support!|
+- Intensive 3 Days Bootcamp with low price investment|
 - Community of motivated remote worker wannabe |
 
 ---
 ### THANKS GUYS, AND ...
 ---
-
-- Ping me for Questions regarding remote work. |
-- I'll be more than happy to help. |
-- That's my passion! |
-- Keep up! |
-
+Good bye!
 ---
-Presented in OneBit HQ, Yogyakarta, 3 Maret 2018
+Presented in University of Amikom , Yogyakarta, 7 April 2018
 
 ###### Eko S. Wibowo | 081-2222-1975 | facebook.com/swdev
 http://pythonthusiast.com
-
 ---
-### Really? That's it? Where is the Qt stuff?
-### It's in the title right? Whaddehel it got to do with this remote work mambo jambo?
-- Anda cerdas! |
-- Silahkan ke alamat ini http://bit.ly/pythonthusiast-qt |
-- 5 artikel disana, akhirnya membuat saya mendapatkan job remote ke UK dengan bayaran total USD 4620 |
-
+### Really? That's it? Where is the Artificial Intelligent stuff?
+### It's in the title right? Where is the slides?
 ---
-- Yaitu IDR 62juta (1USD=13ribu) dalam rentang waktu 277jam atau 7minggu (Belum genap 2 bulan) |
----
-<img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/pyqt-earning.png"/>
----
-That's it all!
----
-Not really...
+Sure, it'll at the end of slides.
+But first, let's see why we need to learn AI
+In the sake of remote work!
 ---
 ### UPWORK EARNING HISTORY
 
@@ -193,7 +183,27 @@ Not really...
 ### Full portfolio
 http://bit.ly/swdev-cv
 ---
+Sekian dan terimakasih!
+---
+Not really...
+Now for Artificial Intelligent Stuff..
+---
+Sederhana saja, AI adalah cabang computer science yang berusaha meniru kecerdasan manusia, ke dalam program komputer.|
+Sehingga, AI memiliki cabang-cabang yang begitu banyak!|
+Kunci utama kecerdasan manusia adalah: Pattern Recognition/Pengenalan Pola|
+Dan disini, komputer bersusah payah menerapkannya|
+---
+Non-AI: IF ELSE (live coding!) |
+AI: Classification (live coding!)|
+--
+### The Power of Python in AI World
+- Numpy: array processing, in the style of Matlab |
+- Matplotlib: ektensi dari Numpy untuk menampilkan grafik ke berbagai framework GUI Python |
+- Seaborn: pengembangan dari Matplotlib untuk grafik yang lebih advance  |
+- Pandas: manipulasi data dan analisis, khusunya tabel numerik dan time series |
+- Natural Language Processing with NLTK: pengenalan bahasa alami manusia |
+- .. daaan masih banyak lagi! |
+---
 That's it!
-...
 ---
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/marvel.png"/>
