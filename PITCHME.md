@@ -1,4 +1,4 @@
-Seminar Remote Work and Python Programming Evolution - April 2018
+Bootcamp Python for Remote Work - April 2018
 ###### STAY AT HOME | PULL DOLLARS | GET A LIFE
 
 <img src="
@@ -6,12 +6,6 @@ https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarn
 
 ###### Pythonthusiast Remote Work Mentoring
 http://pythonthusiast.com
----
-Untuk komunikasi live coding, silahkan bergabung terlebih dahulu ke media Slack berikut ini:
-[http://bit.ly/pythonthusiast-slack-amikom](http://bit.ly/pythonthusiast-slack-amikom)
----
-Bootcamp Pythonthusiast April 2018: http://bit.ly/coderjogloid-angkatan-2
-Voucher diskon akan dibagi-bagikan pada 10 peserta yang menjawab pertanyaan-pertanyaan pada seminar ini
 ---
 ### Stephen R. Covey
 
@@ -33,7 +27,7 @@ Voucher diskon akan dibagi-bagikan pada 10 peserta yang menjawab pertanyaan-pert
 - yang dicapai dengan menjalankan misi (missions) dari peran-peran tersebut |
 
 ---
-### Mengapa Anda mendatangi Seminar ini?
+### Mengapa Anda mendatangi Bootcamp ini?
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/maslow.png"/>
 
 ---
@@ -143,17 +137,10 @@ What is pythonthusiast.com?
 ---
 Good bye!
 ---
-Presented in University of Amikom , Yogyakarta, 7 April 2018
+Presented in CoderDojo Indonesia , Yogyakarta, 27 April 2018
 
 ###### Eko S. Wibowo | 081-2222-1975 | facebook.com/swdev
 http://pythonthusiast.com
----
-### Really? That's it? Where is the Artificial Intelligent stuff?
-### It's in the title right? Where is the slides?
----
-Sure, it'll at the end of slides.
-But first, let's see why we need to learn AI
-In the sake of remote work!
 ---
 ### UPWORK EARNING HISTORY
 
@@ -182,28 +169,6 @@ In the sake of remote work!
 ---
 ### Full portfolio
 http://bit.ly/swdev-cv
----
-Sekian dan terimakasih!
----
-Not really...
-Now for Artificial Intelligent Stuff..
----
-Sederhana saja, AI adalah cabang computer science yang berusaha meniru kecerdasan manusia, ke dalam program komputer.|
-Sehingga, AI memiliki cabang-cabang yang begitu banyak!|
-Kunci utama kecerdasan manusia adalah: Pattern Recognition/Pengenalan Pola|
-Dan disini, komputer bersusah payah menerapkannya|
----
-Non-AI: IF ELSE (live coding!) |
-AI: Classification (live coding!)|
---
-### The Power of Python in AI World
-- Numpy: array processing, in the style of Matlab |
-- Matplotlib: ektensi dari Numpy untuk menampilkan grafik ke berbagai framework GUI Python |
-- Seaborn: pengembangan dari Matplotlib untuk grafik yang lebih advance  |
-- Pandas: manipulasi data dan analisis, khusunya tabel numerik dan time series |
-- Natural Language Processing with NLTK: pengenalan bahasa alami manusia |
-- .. daaan masih banyak lagi! |
----
 That's it!
 ---
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/marvel.png"/>
