@@ -221,7 +221,7 @@ Mari kita simak referensi intelek dan berbobot berikut ini
 ---
 - Pencitraan
 - Aktif di Sosial media secara positif: share tentang coding tips and tricks, bukan tentang .. Bu Dendy|
---
+---
 ### TO BE EXACT: "PENCITRAAN 2.0"
 Be wise with what you share in your social media account
 
