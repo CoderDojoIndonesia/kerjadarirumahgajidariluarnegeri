@@ -87,11 +87,11 @@ No traffic headache
 <img src="map.png" />
 
 ---
-- No office politics |
+- No office politics
 - Paid in USD.. so, $1500/month(*) is just under minimum |
 
 ---
-Work everywhere: I mean, anywhere!
+Work everywhere: I mean it.
 <img src="mac.png" />
 
 ---
@@ -99,7 +99,7 @@ Or at home: built your own .. BatCave!
 <img src="hasil.png" />
 
 ---
-- If there are lots of time zone gaps, you’ll be blessed with so much freedom (Tidur siang anyone?) |
+- If there are lots of time zone gaps, you’ll be blessed with so much freedom (Tidur siang anyone?)
 - Suasana hidup? Pensiunan |
 - You can fire your bosses |
 - Bosses? Yes, you can work for many jobs at once |
@@ -215,15 +215,39 @@ Mari kita simak referensi intelek dan berbobot berikut ini
 ---
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/09-amikom-seminar-april-2018/goku-halo.png" />
 ---
-- Diungkapkan pertama kali oleh psikolog Edward Thorndike |
+- Diungkapkan pertama kali oleh psikolog Edward Thorndike
 - Adalah pengaruh pesona pada satu area yang mempengaruhi penilaian pada area yang lain|
 - Bagaimana membuat employer dari UK/US/Kanada bisa percaya dan tertarik dengan kemampuanmu? |
 ---
-- Pencitraan|
+- Pencitraan
 - Aktif di Sosial media secara positif: share tentang coding tips and tricks, bukan tentang .. Bu Dendy|
+--
+### TO BE EXACT: "PENCITRAAN 2.0"
+Be wise with what you share in your social media account
+
+- Blog your learning experience, but don’t look like you are learning. Make it look like you are teaching. And yes, in English please|
+- For programmer, active in StackOverflow either asking or answering. |
+- For programmer, commit your code in Github. For designer, show case your design in dribble.com, deviantart.com, etc. |
 
 ---
-- Pesan domain atas namamu/brandmu sendiri |
+
+### PERFECT USE OF SOCIAL MEDIA!
+<img src="rosid.png" width="50%" height="50%"/>
+
+---
+Check that posts:
+- Github portfolio, opensource project means recognized in OSS world, star and f**k number!|
+- Memotivasi audience! |
+- No hate speech, politics: means, audience luas sekali. |
+- Hats off!!! |
+
+---
+### Apa bedanya pencitraan dengan pamer?
+- Luruskan niat: self branding |
+- Pada akhirnya: biarkan orang lain berbicara |
+
+---
+- Pesan domain atas namamu/brandmu sendiri
 - Tulis artikel disana dan kopas ke Medium beserta referensi ke domain mu |
 - Post aplikasi open source-mu ke Github|
 - Saat mempost tentang proses belajar, gunakan kata-kata yang penuh percaya diri|
@@ -232,6 +256,35 @@ Mari kita simak referensi intelek dan berbobot berikut ini
 - Daftar ke upwork.com, atau hunt job di remoteok.io |
 - Saat mengirim cover letter untuk job yang kamu rasa cocok, gunakan link ke medium/domain-mu sebagai salah satu portofolio |
 - That's it! |
+---
+
+### NOTABLE WORK HISTORY
+- Gamatechno |
+- Konsultan Skripsi |
+- Gameloft |
+- Upwork |
+- SaleStock |
+- Remoteok.io |
+- MonetizeMore.com |
+
+---
+### NOTABLE REMOTE CLIENT WORK HISTORY
+
+<img src="profile.png"/>
+---
+First Client
+
+<img src="1st.png"/>
+
+---
+
+Box.com (Australia) - iOS | Sam Rowe (Australia) - C# | MeetingBurner (US) - Java |
+
+Pythonblogs (US) - Python | ForexSecure.net - Python | MonetizeMore.com - Python |
+
+Full list ?
+
+http://bit.ly/swdev-cv
 ---
 
 ### WHY PYTHON?
