@@ -1,4 +1,4 @@
-Bootcamp Python for Remote Work - April 2018
+Remote Working at Global Scale: Best Practices - May 2018
 ###### STAY AT HOME | PULL DOLLARS | GET A LIFE
 
 <img src="
