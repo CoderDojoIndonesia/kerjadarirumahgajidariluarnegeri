@@ -1,8 +1,8 @@
-Remote Working at Global Scale: Best Practices - May 2018
+Remote Working at Global Scale: Best Practices
 ###### STAY AT HOME | PULL DOLLARS | GET A LIFE
 
 <img src="
-https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/09-amikom-seminar-april-2018/joglo4.jpg" alt="Pythonthusiast"/>
+https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/11-seminar-atmajaya-052018/joglo2.jpg" alt="Pythonthusiast"/>
 
 ###### Pythonthusiast Remote Work Mentoring
 http://pythonthusiast.com
