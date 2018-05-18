@@ -247,12 +247,6 @@ Check that posts:
 - Pada akhirnya: biarkan orang lain berbicara |
 
 ---
-- Pesan domain atas namamu/brandmu sendiri
-- Tulis artikel disana dan kopas ke Medium beserta referensi ke domain mu |
-- Post aplikasi open source-mu ke Github|
-- Saat mempost tentang proses belajar, gunakan kata-kata yang penuh percaya diri|
-
----
 - Daftar ke upwork.com, atau hunt job di remoteok.io |
 - Saat mengirim cover letter untuk job yang kamu rasa cocok, gunakan link ke medium/domain-mu sebagai salah satu portofolio |
 - That's it! |
@@ -324,13 +318,13 @@ http://pythonthusiast.com
 What is pythonthusiast.com?
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/joglo.jpg"/>
 ---
-- Inspired by CoderDojo.com movement |
+- Inspired by CoderDojo.com movement
 - Remote work mentoring to its fullest! |
 - One time paymnent, lifetime support!|
 - Intensive 3 Days Bootcamp with low price investment|
 - Community of motivated remote worker wannabe |
 ---
-- English corner |
+- English corner
 - Slack channel communication or private chat |
 ---
 ### THANKS GUYS, AND ...
