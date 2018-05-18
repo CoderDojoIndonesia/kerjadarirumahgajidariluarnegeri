@@ -7,6 +7,11 @@ https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarn
 ###### Pythonthusiast Remote Work Mentoring
 http://pythonthusiast.com
 ---
+Untuk Q&A selama dan setelah acara, silahkan bergabung ke media Whatsapp Group berikut ini:
+[http://bit.ly/pythonthusiast-atmajaya](http://bit.ly/pythonthusiast-atmajaya)
+---
+Selama acara, voucher bootcamp remote work akan diberikan kepada 7 penanya pertama!
+---
 ### Stephen R. Covey
 
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/covey.png"/>
@@ -27,7 +32,7 @@ http://pythonthusiast.com
 - yang dicapai dengan menjalankan misi (missions) dari peran-peran tersebut |
 
 ---
-### Mengapa Anda mendatangi Bootcamp ini?
+### Mengapa Anda mendatangi Seminar ini?
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/maslow.png"/>
 
 ---
@@ -35,14 +40,15 @@ http://pythonthusiast.com
 - Intinya manusia melakukan segala sesuatu untuk mendapatkan kebahagiaan |
 
 ---
-### Yaitu, Lebih dari sekedar Kebutuhan, jika Anda masih mampu, kejarlah passion!
-- Karena, tidak ada yang lebih mengasyikkan dari dibayar untuk sesuatu yang menjadi kesukaanmu.
+### Yaitu, Lebih dari sekedar Basic Need, jika Anda masih mampu, kejarlah Self-Actualization. Passion!
+- Karena, tidak ada yang lebih mengasyikkan dari dibayar untuk sesuatu yang menjadi kesukaanmu|
 - Different people, different passion |
 - Identify your passion, and reach out to it |
-- Conventional passion: Guru/dosen, PNS, Tentara, Dokter, etc. |
+- Conventional passion: guru, PNS, Tentara, Dokter, Arsitek, etc. |
 ---
 - Millenial passion: Build the next killer application/startup |
 - Mine? |
+- Implementasi First Things First dari 7 Habits |
 
 ---
 Rabu, 8 Maret 2017 - 4.45pm - GSP UGM
