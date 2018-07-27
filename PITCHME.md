@@ -32,7 +32,7 @@ Selama acara, voucher bootcamp remote work akan diberikan kepada 7 penanya perta
 - yang dicapai dengan menjalankan misi (missions) dari peran-peran tersebut |
 
 ---
-### Mengapa Anda mendatangi Seminar ini?
+### Mengapa Anda mendatangi Bootcamp ini?
 <img src="https://raw.githubusercontent.com/CoderDojoIndonesia/kerjadarirumahgajidariluarnegeri/07-python-or-id--pyqt-self-branding-remote-work/maslow.png"/>
 
 ---
@@ -331,7 +331,7 @@ What is pythonthusiast.com?
 ---
 Good bye!
 ---
-Presented in Universitas Atma Jaya , Yogyakarta, 18 Mei 2018
+Presented in Coder Dojo Indonesia , Yogyakarta, 27 Juli 2018
 
 ###### Eko S. Wibowo | 081-2222-1975 | facebook.com/swdev
 http://pythonthusiast.com
